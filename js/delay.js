@@ -1,3 +1,5 @@
+/* globals vega */
+
 var chartData, view, $svg_rects, $svg_paths
 $.getJSON("delay_data", function (result) {
   chartData = result;
@@ -63,12 +65,12 @@ $("body")
 
   })
 
-  .on("change", "#delay_slider", function() {
+  .on("change", "#delay_slider", function () {
     let delay_val = $(this).val();
     let svg_all_nodes = $svg_paths;
     svg_all_nodes.push(...$svg_rects);
 
-    _.each(svg_all_nodes, function(item) {
+    _.each(svg_all_nodes, function (item) {
       let item_data_val = item.datum.avg_time || item.datum.node_avg_time;
       if (item_data_val >= delay_val) {
         item._svg.setAttribute("class", "custom_fade");
@@ -77,7 +79,3 @@ $("body")
       }
     });
   });
-
-
-
-// "attributes": {"val": "rrr"}

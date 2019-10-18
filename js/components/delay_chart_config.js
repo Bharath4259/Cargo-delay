@@ -8,7 +8,7 @@ function get_delay_chart_config(cnf) {
     "data": [
       {
         "name": "rawData",
-        "values": cnf.data ,
+        "values": cnf.data,
         "transform": [
           {
             "type": "collect",
@@ -1022,5 +1022,5 @@ function get_delay_chart_config(cnf) {
       }
     ]
   }
- return config
+  return config
 }
