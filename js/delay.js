@@ -1,4 +1,4 @@
-/* globals vega */
+/* globals vega, get_delay_chart_config */
 
 var chartData, view, $svg_rects, $svg_paths
 $.getJSON("delay_data", function (result) {

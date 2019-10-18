@@ -30,6 +30,13 @@
 .tooltip.tooltip-main.in{
   opacity: 1 !important;
 }
+.delay_slider .slider-track{
+  background-image: linear-gradient(to right,#e40f0f 0,#fbff00, green 100%);
+}
+.delay_slider .slider-track-low, .delay_slider .slider-track-high{
+  opacity: 0;
+  background-image: linear-gradient(to right,transparent, transparent, transparent 100%);
+}
 .slider-handle.min-slider-handle.round{
   top: 4px;
 }
@@ -39,19 +46,9 @@
 .slider-selection{
   background-image: linear-gradient(to bottom,transparent,transparent,transparent 100%) !important;
 }
-
-.delay_slider .slider-track{
-  background-image: linear-gradient(to right,#e40f0f 0,#fbff00, green 100%);
-}
-.delay_slider .slider-track-low, .delay_slider .slider-track-high{
-  opacity: 0;
-  background-image: linear-gradient(to right,transparent, transparent, transparent 100%);
-}
-
 svg .mark-path .custom_fade{
   stroke: #dedcdc !important;
 }
-
 svg .mark-rect .custom_fade{
   stroke: #fff !important;
   fill: #dedcdc !important;

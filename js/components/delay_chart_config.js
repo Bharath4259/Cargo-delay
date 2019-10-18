@@ -1,4 +1,4 @@
-
+/*exported get_delay_chart_config */
 function get_delay_chart_config(cnf) {
   var config =
   {

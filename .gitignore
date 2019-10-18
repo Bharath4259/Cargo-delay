@@ -14,7 +14,8 @@ bower_components/
 * *
 
 # Minifyed files
-*.min.*
+*.min.css
+*.min.js
 
 # Ignore byte-compiled / optimised / DLL files
 __pycache__/
