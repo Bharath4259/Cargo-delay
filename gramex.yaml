@@ -48,7 +48,11 @@ url:
     handler: LogoutHandler
 
 
-
+test:
+  auth:
+    user: alpha
+    password: alpha
+    login_url: /$YAMLURL/login/
 
 
 # Gramex init configurations for app: cargo-delay
