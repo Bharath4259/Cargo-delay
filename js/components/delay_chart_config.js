@@ -545,13 +545,13 @@ function get_delay_chart_config(cnf) {
             },
             "fill": {
               "scale": "colorScale",
-              "field": "node_avg_time"
+              "signal": "(datum.node_avg_time)"
             },
             "opacity": {
               "value": 1
             },
             "tooltip": {
-              "signal": "datum"
+              "signal": "datum.node_avg_time"
             }
           }
         }
@@ -568,9 +568,8 @@ function get_delay_chart_config(cnf) {
               "signal": "( width / length(data('shiftWeekPath')) )"
             },
             "tooltip": {
-              "signal": "(datum)"
+              "signal": "(datum.avg_time)"
             },
-            "href": { "value": "https://vega.github.io/" },
             "strokeOpacity": [
               {
                 "test": "(indata('data_selected', 'id', datum.sourceId)) || (indata('data_selected', 'id', datum.targetId))",
@@ -708,7 +707,7 @@ function get_delay_chart_config(cnf) {
               "signal": "( width / length(data('weekProductPath')) )"
             },
             "tooltip": {
-              "signal": "(datum)"
+              "signal": "(datum.avg_time)"
             },
             "strokeOpacity": [
               {
@@ -847,7 +846,7 @@ function get_delay_chart_config(cnf) {
               "signal": "( width / length(data('productShipmentPath')) )"
             },
             "tooltip": {
-              "signal": "(datum)"
+              "signal": "(datum.avg_time)"
             },
             "strokeOpacity": [
               {
@@ -1015,7 +1014,7 @@ function get_delay_chart_config(cnf) {
               "value": 1
             },
             "tooltip": {
-              "signal": "datum"
+              "signal": "datum.node_avg_time"
             }
           }
         }

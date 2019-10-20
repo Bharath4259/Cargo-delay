@@ -41,10 +41,13 @@ function render_delay_chart(spec) {
     selectedPaths.forEach(element => {
       if (visibility.length == 2) {
         element._svg.style.strokeOpacity = 1;
+        element._svg.style.visibility = "visible"
       } else if (_.values(visibility) == 0) {
         element._svg.style.strokeOpacity = 1;
+        element._svg.style.visibility = "visible";
       } else if (_.values(visibility) == 1) {
         element._svg.style.strokeOpacity = 0;
+        element._svg.style.visibility = "hidden";
       }
     });
   });
@@ -59,17 +62,36 @@ function render_delay_chart(spec) {
   $(".bt_slider").slider();
 }
 
+var color_scale;
 
+setTimeout(function () {
+
+  var recovery_min = parseInt($("#delay_slider").attr("min"))
+  var recovery_max = parseInt($("#delay_slider").attr("max"))
+  color_scale = d3.scaleLinear()
+    .domain([1.5, 1.75, 2.0])
+    .range(["green", "yellow", "red"]);
+
+}, 1000)
+
+var initial_trained = 5 //parseInt($("#staff_slider").val()) || 5
 $("body")
   .on("change", "#staff_slider", function () {
-
+    var trained = +$(this).val();
+    let svg_all_nodes = $svg_paths;
+    svg_all_nodes.push(...$svg_rects);
+    var scale = Math.pow(1.03, trained - initial_trained);
+    _.each(svg_all_nodes, function (item) {
+      let item_data_val = item.datum.avg_time || item.datum.node_avg_time;
+      item._svg.style.fill = color_scale(item_data_val / scale)
+      item._svg.style.stroke = color_scale(item_data_val / scale);
+    })
   })
 
   .on("change", "#delay_slider", function () {
     let delay_val = $(this).val();
     let svg_all_nodes = $svg_paths;
     svg_all_nodes.push(...$svg_rects);
-
     _.each(svg_all_nodes, function (item) {
       let item_data_val = item.datum.avg_time || item.datum.node_avg_time;
       if (item_data_val >= delay_val) {

@@ -53,3 +53,7 @@ svg .mark-rect .custom_fade{
   stroke: #fff !important;
   fill: #dedcdc !important;
 }
+
+svg .mark-path path{
+  visibility: hidden;
+}
