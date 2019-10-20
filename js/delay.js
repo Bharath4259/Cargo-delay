@@ -65,9 +65,6 @@ function render_delay_chart(spec) {
 var color_scale;
 
 setTimeout(function () {
-
-  var recovery_min = parseInt($("#delay_slider").attr("min"))
-  var recovery_max = parseInt($("#delay_slider").attr("max"))
   color_scale = d3.scaleLinear()
     .domain([1.5, 1.75, 2.0])
     .range(["green", "yellow", "red"]);
