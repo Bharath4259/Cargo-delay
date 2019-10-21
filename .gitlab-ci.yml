@@ -12,5 +12,5 @@ deploy:
   variables:
     SERVER: ubuntu@uat.gramener.com       # Deploy to uat.gramener.com/app-name/
     URL: cargo-delay                         # Change this to your app-name
-    SETUP: npm install && bower install   # You can use any setup script here
+    SETUP: npm install   # You can use any setup script here
     VERSION: v1                           # v0, v1 or static
