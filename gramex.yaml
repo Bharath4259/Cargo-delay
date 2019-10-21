@@ -10,7 +10,8 @@ url:
     kwargs:
       path: $YAMLPATH/index.html
       # See https://learn.gramener.com/guide/auth/#authorization for auth rules
-      auth: true
+      auth: &AUTH
+        login_url: /$YAMLURL/login/
       template: true
       headers:
         # Templates may have user-specific content. Cache privately.
