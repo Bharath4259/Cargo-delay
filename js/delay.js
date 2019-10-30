@@ -1,6 +1,6 @@
-/* globals vega, get_vega_config, _promise */
+/* globals vega, get_vega_config, */
 
-var view, $svg_rects, $svg_paths
+var $svg_rects, $svg_paths
 
 
 $(function() {
