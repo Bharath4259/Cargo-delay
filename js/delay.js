@@ -1,27 +1,48 @@
-/* globals vega, get_delay_chart_config */
+/* globals vega, get_vega_config, _promise */
 
-var chartData, view, $svg_rects, $svg_paths
-$.getJSON("delay_data", function (result) {
-  chartData = result;
-  draw_chart()
-});
+var view, $svg_rects, $svg_paths
 
-function draw_chart() {
 
-  let _data = chartData
-  $("#chart").empty()
-  var config = get_delay_chart_config({ data: _data })
-  render_delay_chart(config);
-}
-// common render fn
-function render_delay_chart(spec) {
-  view = new vega.View(vega.parse(spec))
-    .renderer("svg") // set renderer (canvas or svg)
-    .initialize("#chart") // initialize view within parent DOM container
-    .width($("#chart").width() - 100)
-    .height($("#chart").height())
-    .hover() // enable hover encode set processing
+$(function() {
+  $.getJSON("delay_data", function (result) {
+    var data = result;
+    var config = get_vega_config({ data: data })
+    render_delay_chart(config)
+  });
+})
+
+function render_vega(spec, chart_id) {
+  /* render_vega() takes parameters
+        -> spec - A vega chart spec
+                - Must be a JSON config
+        -> chart_id - An id/class_name to the chart container
+                    - Must be a String
+    and returns vega view.
+  */
+  var view = new vega.View(vega.parse(spec))
+    .renderer("svg")                    // set renderer (canvas or svg)
+    .initialize(chart_id)               // initialize view within parent DOM container
+    .width($(chart_id).width() - 100)   // sets chart width
+    .height($(chart_id).height())       // sets chart height
+    .hover()                            // enable hover encode set processing
     .run();
+
+  return view
+}
+
+// render chart fn
+function render_delay_chart(chart_spec) {
+
+  /*
+      This function accepts parameter
+        -> spec - JSON vega specification chartcreates
+      creates the chart using render_vega()
+      and adds click, hover & filter actions to the view.
+
+  */
+  var chart_container = "#chart"
+  $(chart_container).empty();
+  var view = render_vega(chart_spec, chart_container)
 
   var mergedPathsArray = view
     .data("pathSet1")
@@ -71,7 +92,10 @@ setTimeout(function () {
 
 }, 1000)
 
-var initial_trained = 5 //parseInt($("#staff_slider").val()) || 5
+// Initial value of trained_staff slider..
+// var initial_trained = parseInt($("#staff_slider").val())
+var initial_trained = 5
+
 $("body")
   .on("change", "#staff_slider", function () {
     var trained = +$(this).val();

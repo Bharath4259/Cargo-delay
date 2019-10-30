@@ -6,12 +6,13 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>cargo-delay</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/bootstrap-slider.min.css">
 </head>
 
 <body>
   {% set base = '.' %}
+  <!-- Render nav-bar template -->
   {% include template-navbar.html %}
   <!-- TODO: Filter bars -->
   <div class="container-fluid py-4">
@@ -23,12 +24,18 @@
           <div class="row pb-4 mb-2">
             <h2>Filters</h2>
           </div>
+
+          <div class="row">
+            Use this slider to filter the range <= n.
+          </div>
           <div class="row my-1 d-inline-block delay_slider">
             <input id="delay_slider" class="bt_slider" type="text" data-slider-min="1.5" data-slider-max="2"
               data-slider-step="0.1" data-slider-value="3" />
             <span class="ml-3 mt-1 font-weight-bold">Delay Filter</span>
           </div>
-
+          <div class="row">
+            Use this Slider to set the Trained staff count.
+          </div>
           <div class="row my-1 d-inline-block">
             <input id="staff_slider" class="bt_slider" type="text" data-slider-min="0" data-slider-max="10"
               data-slider-step="1" data-slider-value="5" />
@@ -45,8 +52,9 @@
   <script src="ui/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
   <script src="ui/lodash/lodash.min.js"></script>
   <script src="ui/d3v5/dist/d3.min.js"></script>
-  <script src="js/components/delay_chart_config.js"></script>
   <script src="ui/vega/build/vega.js"></script>
+
+  <script src="js/components/delay_chart_config.js"></script>
   <script src="js/delay.js"></script>
 
 </body>

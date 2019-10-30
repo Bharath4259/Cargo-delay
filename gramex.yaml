@@ -38,12 +38,6 @@ url:
     kwargs:
       url: $YAMLPATH/assets/data/delay.csv
 
-  cargo-delay-demo_data:
-    pattern: /$YAMLURL/delay_demo_data
-    handler: FormHandler
-    kwargs:
-      url: $YAMLPATH/assets/data/demo_data.json
-
   cargo-delay-logout:
     pattern: /$YAMLURL/logout/
     handler: LogoutHandler

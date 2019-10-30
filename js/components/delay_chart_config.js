@@ -1,5 +1,5 @@
-/*exported get_delay_chart_config */
-function get_delay_chart_config(cnf) {
+/*exported get_vega_config */
+function get_vega_config(spec_conf) {
   var config =
   {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
@@ -8,7 +8,7 @@ function get_delay_chart_config(cnf) {
     "data": [
       {
         "name": "rawData",
-        "values": cnf.data,
+        "values": spec_conf.data,
         "transform": [
           {
             "type": "collect",
@@ -388,9 +388,9 @@ function get_delay_chart_config(cnf) {
       {
         "name": "colorScale",
         "type": "linear",
-        "domain": [1.6, 1.9],
+        "domain": [1.5, 1.9],
         "range": ['red', 'yellow', 'green'],
-        // "reverse": true
+        "reverse": true
       }
     ],
     "axes": [

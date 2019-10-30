@@ -8,6 +8,144 @@
 - From the repo folder, run `gramex setup .`
 - From the repo folder, run `gramex`
 
-## Contributions
 
-- Bharath R <bharath.r@gramener.com>
+-----
+
+## About
+
+**Cargo delay** is a simple app developed using [gramex](https://github.com/gramener/gramex/).
+
+This app demonstrates the changes in the cargo transport time
+
+One can notice the change in shipping time when changes in the cargo staff.
+
+And also helps you to understand the shiping time on specific day in a week based on the number of staff.
+
+### Configuring GRAMEX.YAML
+
+- Import UI Components from gramex
+
+```
+import:
+  ui:
+    path: $GRAMEXAPPS/ui/gramex.yaml
+    YAMLURL: $YAMLURL/ui/
+
+```
+
+- Define each App-URL in the `url` section of `gramex.yaml`
+
+- auth, template & cache control can be added to the url config.
+
+- A sample block of url yaml config will look like this.
+
+```
+url:
+    url-name:                           # A unique name for this handler
+    pattern: /(.*)                      # All URLs beginning with /
+    handler: FileHandler                # Handler used
+    kwargs:                             # Options to the handler
+        path: .                         #   path is current dir
+        default_filename: index.html    #   / becomes /index.html
+        index: true                     #   display file list if index.html missing
+        template: '*.html'              # Transform all .html files
+```
+- A URL Pattern starts with the `/$YAMLURL/` which indicates end point of server.
+
+- Following block is the url pattern used in this app.
+
+```
+url:
+  cargo-delay-home:
+    pattern: /$YAMLURL/
+    handler: FileHandler
+    kwargs:
+      path: $YAMLPATH/index.html
+```
+
+- ### Handlers:
+    In order to provide our dashboard with access to the data, files, auth & more gramex functionalities, Gramex uses components called Handlers. [(Explore Handlers in gramex)](https://learn.gramener.com/guide/).
+
+    This Project Uses 3 types of Handlers
+        - FileHandler
+        - FormHandler
+        - AuthHandler
+
+    ### [FileHandler](https://learn.gramener.com/guide/filehandler/)
+
+    gramex.yaml uses the FileHandler to display files. FileHandlers serves the any file under the `path` through the specified `url`.
+
+
+
+    ### [FormHandler](https://learn.gramener.com/guide/formhandler/)
+
+    FormHandler lets you access, read & write to the data from databases & files.
+
+
+    This allow you to ..
+     1) convert a data file into a REST API
+     2) preview the data in an interactive table
+     3) create a chart showing sales across multiple categories.
+
+    Take a look at [Data end points](\gramex.yaml#L35-L45) created using from handlers in this application.
+
+    ### [AuthHandler](https://learn.gramener.com/guide/auth/)
+
+    Gramex provides pre-written Authentication functionality using `AuthHandler`.
+
+    It allows users to log in using various single sign-on methods and manage sessoins & cookies. Which futhur includes GoogleAuth, FacebookAuth & etc.
+
+    This app uses `SimpleAuth` which defined [here..](\gramex.yaml#L22-L33)
+
+    ```
+    cargo-delay-login:
+        pattern: /$YAMLURL/login/
+        handler: SimpleAuth
+        kwargs:
+            template: $YAMLPATH/login.html
+            credentials:
+                alpha: alpha
+    ```
+
+## Vega to generate charts
+
+[Vega](https://vega.github.io/vega/) provides interactive d3-charts visualization through JSON format.
+
+The creation of vega chart needs a JSON Specification of the charts, that should be passed to the vega renderer.
+
+ - Click [here](\js\components/delay_chart_config.js) to see specification of the chart used in this app.
+
+ - For more about vega go to [vega.github.io/vega/](https://vega.github.io/vega/)
+
+ - The following function renders the vega chart
+
+ ```
+
+function render_vega(spec, chart_id) {
+  var view = new vega.View(vega.parse(spec))
+    .renderer("svg")                    // set renderer (canvas or svg)
+    .initialize(chart_id)               // initialize view within parent DOM container
+    .width($(chart_id).width() - 100)   // sets chart width
+    .height($(chart_id).height())       // sets chart height
+    .hover()                            // enable hover encode set processing
+    .run();
+
+  return view
+}
+
+ ```
+
+ This function has been defined in the script file [delay.js](\js\delay.js#L14)
+
+
+
+
+
+
+
+
+
+
+
+
+

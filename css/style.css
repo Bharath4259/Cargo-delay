@@ -16,9 +16,9 @@
     Other
       https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss
 */
-@import url("ui/bootstraptheme.css?body-bg=white&navbar-dark-color=rgba(255%2C255%2C255%2C.8)&navbar-dark-hover-color=white");
+@import url("../ui/bootstraptheme.css?body-bg=white&navbar-dark-color=rgba(255%2C255%2C255%2C.8)&navbar-dark-hover-color=white");
 /* For v4 icons, use url("ui/font-awesome/css/font-awesome.min.css") */
-@import url("ui/@fortawesome/fontawesome-free/css/all.min.css");
+@import url("../ui/@fortawesome/fontawesome-free/css/all.min.css");
 
 
 /* custom styles for app: cargo-delay */
@@ -31,7 +31,7 @@
   opacity: 1 !important;
 }
 .delay_slider .slider-track{
-  background-image: linear-gradient(to right,#e40f0f 0,#fbff00, green 100%);
+  background-image: linear-gradient(to right, green, #fbff00, #e40f0f 100%);
 }
 .delay_slider .slider-track-low, .delay_slider .slider-track-high{
   opacity: 0;
