@@ -5,11 +5,14 @@
 - [Install Gramex 1.x](https://learn.gramener.com/guide/install/)
 - Clone this repository
 - Copy assets from shared repo, e.g. `demo.gramener.com:/deploy/<user>/<repo>/`
+
+
+## How to Run
+
 - From the repo folder, run `gramex setup .`
 - From the repo folder, run `gramex`
+- Open `localhost:9988` in browser
 
-
------
 
 ## About
 
