@@ -13,6 +13,10 @@
 - From the repo folder, run `gramex`
 - Open `localhost:9988` in browser
 
+## Working Version
+
+- This app is hosted at [https://uat.gramener.com/cargo-delay/](https://uat.gramener.com/cargo-delay/)
+- Default username & password could be ''`alpha`''
 
 ## About
 
@@ -92,23 +96,6 @@ url:
 
     Take a look at [Data end points](\gramex.yaml#L35-L45) created using from handlers in this application.
 
-    ### [AuthHandler](https://learn.gramener.com/guide/auth/)
-
-    Gramex provides pre-written Authentication functionality using `AuthHandler`.
-
-    It allows users to log in using various single sign-on methods and manage sessoins & cookies. Which futhur includes GoogleAuth, FacebookAuth & etc.
-
-    This app uses `SimpleAuth` which defined [here..](\gramex.yaml#L22-L33)
-
-    ```
-    cargo-delay-login:
-        pattern: /$YAMLURL/login/
-        handler: SimpleAuth
-        kwargs:
-            template: $YAMLPATH/login.html
-            credentials:
-                alpha: alpha
-    ```
 
 ## Vega to generate charts
 
