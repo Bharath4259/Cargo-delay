@@ -1,6 +1,6 @@
 # cargo-delay
 
-![Preview](\preview.gif)
+![Preview](preview.gif)
 
 ## About
 
