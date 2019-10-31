@@ -18,7 +18,14 @@
   <div class="container-fluid py-4">
     <div class="card col-12 w-100">
       <div class="card-body row justify-content-between w-100">
-        <div class="col-7 w-100" id="chart">
+        <div class="col-7 w-100">
+          <div class="d-flex justify-content-between">
+            <h2>Demonstrating Cargo Transport</h2>
+             <a href data-toggle="tooltip" data-placement="bottom" title="Click on the bars to explore">
+               <i class="fas fa-info-circle " height="140" ></i>
+             </a>
+          </div>
+          <div class=" w-100 mt-n4" id="chart"></div>
         </div>
         <div class="ml-4 mt-3 pt-4 col-4">
           <div class="row pb-4 mb-2">
@@ -59,6 +66,9 @@
 
   <script src="js/components/delay_chart_config.js"></script>
   <script src="js/delay.js"></script>
+  <script>
+    $('[data-toggle="tooltip"]').tooltip()
+  </script>
 
 </body>
 

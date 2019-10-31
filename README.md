@@ -16,7 +16,7 @@
 
 ## About
 
-**Cargo delay** is a simple app developed using [gramex](https://github.com/gramener/gramex/).
+**[Cargo delay](https://uat.gramener.com/cargo-delay/)** is a simple app developed using [gramex](https://github.com/gramener/gramex/).
 
 This app demonstrates the changes in the cargo transport time
 
