@@ -75,9 +75,9 @@ url:
     In order to provide our dashboard with access to the data, files, auth & more gramex functionalities, Gramex uses components called Handlers. [(Explore Handlers in gramex)](https://learn.gramener.com/guide/).
 
     This Project Uses 3 types of Handlers
-        - FileHandler
-        - FormHandler
-        - AuthHandler
+
+    - FileHandler
+    - FormHandler
 
     ### [FileHandler](https://learn.gramener.com/guide/filehandler/)
 
