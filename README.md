@@ -13,6 +13,10 @@
 - From the repo folder, run `gramex`
 - Open `localhost:9988` in browser
 
+## Working Version
+
+- This app is hosted at [https://uat.gramener.com/cargo-delay/](https://uat.gramener.com/cargo-delay/)
+- Default username & password could be ''`alpha`''
 
 ## About
 
