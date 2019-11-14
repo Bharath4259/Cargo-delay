@@ -17,38 +17,40 @@
   <!-- TODO: Filter bars -->
   <div class="container-fluid py-4">
     <div class="card col-12 w-100">
-      <div class="card-body row justify-content-between w-100">
-        <div class="col-7 w-100">
-          <div class="d-flex justify-content-between">
-            <h2>Demonstrating Cargo Transport</h2>
-              <a href data-toggle="tooltip" data-placement="bottom" title="Click on the bars to explore">
+      <div class="card-body  w-100">
+        <div class="d-flex row flex-row-reverse ">
+            <!-- <h2>Cargo Delay</h2> -->
+              <span data-toggle="tooltip" data-placement="bottom" class="cursor-pointer" title="Click on the bars to explore">
                 <i class="fas fa-info-circle " height="140" ></i>
-              </a>
+              </span>
           </div>
-          <div class=" w-100 mt-n4" id="chart"></div>
-        </div>
-        <div class="ml-4 mt-3 pt-4 col-4">
-          <div class="row pb-4 mb-2">
-            <h2>Filters</h2>
-          </div>
+        <div class="d-flex row justify-content-between">
 
-          <div class="row">
-            <span>
-              Use this slider to filter the range &lt= n.
-            </span>
+          <div class="col-7 w-100">
+            <div class=" w-100 mt-n5" id="chart"></div>
           </div>
-          <div class="row my-1 d-inline-block delay_slider">
-            <input id="delay_slider" class="bt_slider" type="text" data-slider-min="1.5" data-slider-max="2"
-              data-slider-step="0.1" data-slider-value="3" />
-            <span class="ml-3 mt-1 font-weight-bold">Delay Filter</span>
-          </div>
-          <div class="row">
-            Use this Slider to set the Trained staff count.
-          </div>
-          <div class="row my-1 d-inline-block">
-            <input id="staff_slider" class="bt_slider" type="text" data-slider-min="0" data-slider-max="10"
-              data-slider-step="1" data-slider-value="5" />
-            <span class="ml-3 mt-1 font-weight-bold">Trained Staff</span>
+          <div class="ml-4 mt-3 pt-4 col-4">
+            <div class="row pb-4 mb-2">
+              <h2>Filters</h2>
+            </div>
+
+            <div class="row">
+              <span class="ml-0 mt-1 font-weight-bold" title="Use this slider to filter the range &lt= n.">Delay Filter</span>
+            </div>
+            <div class="row my-1 d-inline-block delay_slider w-100">
+              <span id="delay_slider_val" class="btn mr-3 col-2" disabled> 1.5 </span>
+              <input id="delay_slider" class="bt_slider col-8" type="text" data-slider-min="1.5" data-slider-max="2"
+                data-slider-step="0.01" data-slider-value="1.5" />
+            </div>
+            <div class="row">
+              <span class="ml-0 mt-1 font-weight-bold" title="Use this Slider to set the Trained staff count.">Trained Staff</span>
+            </div>
+            <div class="row my-1 d-inline-block w-100">
+              <span id="staff_slider_val" class="btn mr-3 col-2" disabled> 5 </span>
+              <input id="staff_slider" class="bt_slider col-8" type="text" data-slider-min="0" data-slider-max="10"
+                data-slider-step="1" data-slider-value="5" />
+            </div>
+
           </div>
 
         </div>

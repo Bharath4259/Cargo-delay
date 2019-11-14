@@ -99,6 +99,7 @@ var initial_trained = 5
 $("body")
   .on("change", "#staff_slider", function () {
     var trained = +$(this).val();
+    $("#staff_slider_val").html(trained)
     let svg_all_nodes = $svg_paths;
     svg_all_nodes.push(...$svg_rects);
     var scale = Math.pow(1.03, trained - initial_trained);
@@ -111,11 +112,12 @@ $("body")
 
   .on("change", "#delay_slider", function () {
     let delay_val = $(this).val();
+    $("#delay_slider_val").html(delay_val)
     let svg_all_nodes = $svg_paths;
     svg_all_nodes.push(...$svg_rects);
     _.each(svg_all_nodes, function (item) {
       let item_data_val = item.datum.avg_time || item.datum.node_avg_time;
-      if (item_data_val >= delay_val) {
+      if (item_data_val < delay_val) {
         item._svg.setAttribute("class", "custom_fade");
       } else {
         item._svg.classList.remove("custom_fade");

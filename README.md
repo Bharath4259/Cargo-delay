@@ -3,6 +3,15 @@
 
 ![preview](\preview.gif)
 
+
+## Setup
+
+- [Install Gramex 1.x](https://learn.gramener.com/guide/install/)
+- run `gramex Setup`
+- Clone this repository
+- Copy data from [repo](assets/data/)
+
+
 ## About
 
 **[Cargo delay](https://uat.gramener.com/cargo-delay/)** is a simple app developed using [gramex](https://github.com/gramener/gramex/).
@@ -12,13 +21,6 @@ This app demonstrates the changes in the cargo transport time
 One can notice the change in shipping time when changes in the cargo staff.
 
 And also helps you to understand the shiping time on specific day in a week based on the number of staff.
-
-
-## Setup
-
-- [Install Gramex 1.x](https://learn.gramener.com/guide/install/)
-- Clone this repository
-- Copy assets from shared repo, e.g. `demo.gramener.com:/deploy/<user>/<repo>/`
 
 
 ## How to Run
@@ -77,17 +79,6 @@ url:
 - ### Handlers:
     In order to provide our dashboard with access to the data, files, auth & more gramex functionalities, Gramex uses components called Handlers. [(Explore Handlers in gramex)](https://learn.gramener.com/guide/).
 
-    This Project Uses 3 types of Handlers
-        - FileHandler
-        - FormHandler
-        - AuthHandler
-
-    ### [FileHandler](https://learn.gramener.com/guide/filehandler/)
-
-    gramex.yaml uses the FileHandler to display files. FileHandlers serves the any file under the `path` through the specified `url`.
-
-
-
     ### [FormHandler](https://learn.gramener.com/guide/formhandler/)
 
     FormHandler lets you access, read & write to the data from databases & files.
@@ -100,25 +91,7 @@ url:
 
     Take a look at [Data end points](\gramex.yaml#L35-L45) created using from handlers in this application.
 
-    ### [AuthHandler](https://learn.gramener.com/guide/auth/)
-
-    Gramex provides pre-written Authentication functionality using `AuthHandler`.
-
-    It allows users to log in using various single sign-on methods and manage sessoins & cookies. Which futhur includes GoogleAuth, FacebookAuth & etc.
-
-    This app uses `SimpleAuth` which defined [here..](\gramex.yaml#L22-L33)
-
-    ```
-    cargo-delay-login:
-        pattern: /$YAMLURL/login/
-        handler: SimpleAuth
-        kwargs:
-            template: $YAMLPATH/login.html
-            credentials:
-                alpha: alpha
-    ```
-
-## Vega to generate charts
+## Sanky Chart Generation
 
 [Vega](https://vega.github.io/vega/) provides interactive d3-charts visualization through JSON format.
 
@@ -130,33 +103,24 @@ The creation of vega chart needs a JSON Specification of the charts, that should
 
  - The following function renders the vega chart
 
- ```
+    ```
 
-function render_vega(spec, chart_id) {
-  var view = new vega.View(vega.parse(spec))
-    .renderer("svg")                    // set renderer (canvas or svg)
-    .initialize(chart_id)               // initialize view within parent DOM container
-    .width($(chart_id).width() - 100)   // sets chart width
-    .height($(chart_id).height())       // sets chart height
-    .hover()                            // enable hover encode set processing
-    .run();
+    function render_vega(spec, chart_id) {
+      var view = new vega.View(vega.parse(spec))
+        .renderer("svg")                    // set renderer (canvas or svg)
+        .initialize(chart_id)               // initialize view within parent DOM container
+        .width($(chart_id).width() - 100)   // sets chart width
+        .height($(chart_id).height())       // sets chart height
+        .hover()                            // enable hover encode set processing
+        .run();
 
-  return view
-}
+      return view
+    }
 
- ```
+    ```
 
- This function has been defined in the script file [delay.js](\js\delay.js#L14)
+- This function has been defined in the script file [delay.js](\js\delay.js#L14)
 
-
-
-
-
-
-
-
-
-
-
+- The additional interactions for the chart are added on click event Listeners that we need to add after the chart rendered. [(delay.js)](delay.js#L51-L75)
 
 
