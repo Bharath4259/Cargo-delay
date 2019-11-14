@@ -11,10 +11,16 @@
 - Clone this repository
 - Copy data from [repo](assets/data/)
 
-## Working Version
 
-- This app is hosted at [https://uat.gramener.com/cargo-delay/](https://uat.gramener.com/cargo-delay/)
-- Default username & password could be ''`alpha`''
+## About
+
+**[Cargo delay](https://uat.gramener.com/cargo-delay/)** is a simple app developed using [gramex](https://github.com/gramener/gramex/).
+
+This app demonstrates the changes in the cargo transport time
+
+One can notice the change in shipping time when changes in the cargo staff.
+
+And also helps you to understand the shiping time on specific day in a week based on the number of staff.
 
 
 ## How to Run
