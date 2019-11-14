@@ -551,7 +551,7 @@ function get_vega_config(spec_conf) {
               "value": 1
             },
             "tooltip": {
-              "signal": "datum.node_avg_time"
+              "signal": "format(datum.node_avg_time, '0.3')"
             }
           }
         }
@@ -568,7 +568,7 @@ function get_vega_config(spec_conf) {
               "signal": "( width / length(data('shiftWeekPath')) )"
             },
             "tooltip": {
-              "signal": "(datum.avg_time)"
+              "signal": "format(datum.avg_time, '0.3')"
             },
             "strokeOpacity": [
               {
@@ -707,7 +707,7 @@ function get_vega_config(spec_conf) {
               "signal": "( width / length(data('weekProductPath')) )"
             },
             "tooltip": {
-              "signal": "(datum.avg_time)"
+              "signal": "format(datum.avg_time, '0.3')"
             },
             "strokeOpacity": [
               {
@@ -846,7 +846,7 @@ function get_vega_config(spec_conf) {
               "signal": "( width / length(data('productShipmentPath')) )"
             },
             "tooltip": {
-              "signal": "(datum.avg_time)"
+              "signal": "format(datum.avg_time, '0.3')"
             },
             "strokeOpacity": [
               {
@@ -1014,7 +1014,7 @@ function get_vega_config(spec_conf) {
               "value": 1
             },
             "tooltip": {
-              "signal": "datum.node_avg_time"
+              "signal": "format(datum.node_avg_time, '.3')"
             }
           }
         }
