@@ -1,0 +1,1001 @@
+﻿AWB,Time of Travel,Weekday,Flight Booking type,Days to Travel,Recovery time
+409,Night,Fri,Business+,5 to 10,2.712168891
+555,Night,Sat,Business Break Journey,10 to 20 ,2.711921995
+552,Night,Sun,Concierge+,20+,2.710229124
+121,Morning,Fri,Economy,20+,2.707365418
+957,Evening,Fri,Economy,5 to 10,2.703683876
+955,Evening,Mon,Business Break Journey,20+,2.700339068
+414,Night,Sun,Concierge+,1 to 2,2.695089617
+404,Morning,Tue,Business Direct,3 to 5,2.693486134
+918,Evening,Sat,Business+,5 to 10,2.687948854
+709,Morning,Tue,Business+,3 to 5,2.686882021
+846,Morning,Sun,Economy,3 to 5,2.685660456
+809,Evening,Fri,Concierge+,1 to 2,2.679399403
+218,Night,Thu,Business+,10 to 20 ,2.679160114
+796,Evening,Sat,Business Direct,3 to 5,2.678985706
+237,Evening,Fri,Business Direct,3 to 5,2.678280368
+632,Morning,Thu,Business Direct,5 to 10,2.673978
+808,Evening,Thu,Economy,1 to 2,2.668016423
+545,Night,Mon,Concierge+,1 to 2,2.663759393
+537,Night,Mon,Business Direct,3 to 5,2.663356599
+257,Morning,Tue,Concierge+,10 to 20 ,2.661447302
+885,Evening,Sat,Business Break Journey,1 to 2,2.657802502
+954,Morning,Sun,Business+,1 to 2,2.651055919
+675,Night,Mon,Economy,5 to 10,2.646438313
+829,Evening,Sun,Business Break Journey,5 to 10,2.64485188
+125,Evening,Sat,Business Direct,3 to 5,2.642293833
+694,Morning,Mon,Business Break Journey,3 to 5,2.639867777
+498,Night,Mon,Economy,3 to 5,2.639587386
+591,Night,Fri,Economy,20+,2.638509147
+793,Morning,Mon,Concierge+,20+,2.635305312
+376,Night,Mon,Economy,1 to 2,2.632559235
+728,Morning,Wed,Business+,20+,2.630265725
+871,Night,Sun,Concierge+,1 to 2,2.628572928
+576,Night,Sun,Economy,1 to 2,2.624755122
+911,Morning,Sat,Business+,20+,2.623601614
+80,Night,Fri,Economy,20+,2.622217873
+789,Night,Tue,Business Direct,5 to 10,2.621036682
+104,Evening,Fri,Concierge+,1 to 2,2.620051304
+502,Morning,Fri,Business+,20+,2.618781292
+322,Morning,Fri,Business Break Journey,3 to 5,2.615766888
+462,Morning,Mon,Economy,1 to 2,2.613890738
+633,Night,Thu,Business Direct,10 to 20 ,2.612073991
+824,Evening,Sun,Economy,20+,2.611482121
+347,Morning,Mon,Concierge+,3 to 5,2.609926743
+365,Morning,Tue,Business Break Journey,3 to 5,2.60914462
+668,Evening,Tue,Business+,5 to 10,2.608533523
+867,Evening,Sat,Concierge+,3 to 5,2.605241615
+445,Night,Thu,Business+,20+,2.599398978
+787,Morning,Tue,Business Break Journey,5 to 10,2.599184726
+478,Night,Tue,Business+,20+,2.597850374
+454,Evening,Tue,Business Break Journey,10 to 20 ,2.597787924
+82,Night,Fri,Economy,1 to 2,2.596183793
+240,Night,Fri,Business Direct,10 to 20 ,2.594916336
+379,Evening,Mon,Economy,20+,2.592140898
+975,Evening,Fri,Economy,20+,2.591755632
+11,Morning,Fri,Business Direct,20+,2.587831682
+73,Evening,Sat,Concierge+,3 to 5,2.579007315
+367,Morning,Wed,Concierge+,3 to 5,2.578994977
+283,Evening,Sun,Business+,5 to 10,2.578530774
+378,Night,Mon,Economy,20+,2.577176655
+536,Evening,Sun,Concierge+,5 to 10,2.574090822
+725,Evening,Fri,Business+,1 to 2,2.570718809
+115,Night,Tue,Business+,1 to 2,2.56614681
+46,Night,Sat,Concierge+,1 to 2,2.564337889
+386,Evening,Tue,Economy,1 to 2,2.561628789
+58,Morning,Fri,Business Break Journey,5 to 10,2.560533947
+930,Night,Tue,Business Direct,20+,2.552970355
+6,Night,Thu,Economy,3 to 5,2.552963548
+873,Night,Sun,Business+,3 to 5,2.542616661
+986,Morning,Fri,Concierge+,10 to 20 ,2.534665855
+898,Morning,Fri,Business+,20+,2.533955091
+819,Evening,Fri,Business+,1 to 2,2.533642
+830,Night,Mon,Business Direct,10 to 20 ,2.531820594
+179,Evening,Thu,Economy,20+,2.52931788
+662,Evening,Fri,Business+,10 to 20 ,2.526574588
+688,Morning,Wed,Economy,1 to 2,2.526328948
+768,Evening,Sun,Business Break Journey,1 to 2,2.523612526
+332,Evening,Mon,Economy,10 to 20 ,2.520085946
+729,Morning,Thu,Business Break Journey,10 to 20 ,2.518671513
+654,Night,Thu,Business Break Journey,5 to 10,2.516837158
+1,Morning,Sun,Business Break Journey,5 to 10,2.516055336
+200,Morning,Mon,Business+,5 to 10,2.51587144
+737,Morning,Sun,Concierge+,3 to 5,2.512926913
+461,Morning,Fri,Business Break Journey,3 to 5,2.51136109
+276,Evening,Sun,Business Direct,5 to 10,2.50544012
+778,Morning,Wed,Business Break Journey,20+,2.499731469
+831,Morning,Fri,Economy,1 to 2,2.495449533
+739,Morning,Sun,Concierge+,3 to 5,2.490072352
+953,Night,Fri,Business+,1 to 2,2.485540571
+216,Evening,Wed,Business+,5 to 10,2.483488108
+295,Morning,Thu,Business Direct,1 to 2,2.483345804
+696,Evening,Mon,Concierge+,1 to 2,2.481286317
+170,Evening,Sat,Business Direct,20+,2.481190823
+140,Night,Sun,Economy,20+,2.479140378
+316,Morning,Mon,Concierge+,5 to 10,2.475014802
+734,Morning,Wed,Economy,3 to 5,2.474524741
+466,Evening,Thu,Concierge+,1 to 2,2.472867853
+531,Evening,Sat,Concierge+,20+,2.471651872
+33,Evening,Sat,Business Direct,10 to 20 ,2.470309994
+292,Morning,Fri,Business+,10 to 20 ,2.46388827
+194,Morning,Thu,Business+,10 to 20 ,2.462789078
+31,Night,Tue,Economy,10 to 20 ,2.462174326
+501,Morning,Fri,Business Direct,10 to 20 ,2.461309345
+339,Night,Sun,Economy,5 to 10,2.455398763
+177,Morning,Sat,Business+,1 to 2,2.454554265
+56,Morning,Sun,Economy,5 to 10,2.453882615
+921,Evening,Mon,Business Break Journey,20+,2.453836924
+415,Evening,Sun,Economy,5 to 10,2.451925682
+411,Morning,Thu,Business+,3 to 5,2.451865809
+434,Night,Fri,Concierge+,20+,2.451234717
+494,Morning,Wed,Business Direct,3 to 5,2.446712342
+978,Morning,Sun,Business Break Journey,1 to 2,2.444019694
+15,Evening,Sun,Business Direct,5 to 10,2.443068591
+377,Evening,Thu,Concierge+,20+,2.442201152
+258,Morning,Tue,Economy,5 to 10,2.44032049
+412,Night,Sun,Business Break Journey,3 to 5,2.43959047
+997,Morning,Sun,Business Break Journey,20+,2.438295986
+253,Night,Mon,Business+,20+,2.437782219
+128,Night,Thu,Business+,3 to 5,2.436113914
+118,Night,Sat,Business Break Journey,1 to 2,2.435525427
+563,Morning,Mon,Business+,1 to 2,2.427335071
+936,Evening,Thu,Business+,10 to 20 ,2.426143611
+977,Night,Sun,Concierge+,20+,2.421679638
+650,Evening,Mon,Business+,3 to 5,2.417605366
+236,Evening,Sat,Business Direct,5 to 10,2.414203041
+189,Evening,Tue,Business Direct,3 to 5,2.414133701
+45,Night,Mon,Business+,3 to 5,2.41193965
+931,Morning,Sun,Economy,3 to 5,2.409177685
+535,Morning,Thu,Economy,20+,2.405377604
+575,Evening,Wed,Business Break Journey,20+,2.400296867
+516,Night,Mon,Business+,5 to 10,2.400177043
+814,Evening,Thu,Concierge+,10 to 20 ,2.399199924
+419,Morning,Wed,Concierge+,5 to 10,2.395151489
+666,Morning,Sun,Business Direct,20+,2.394824145
+508,Morning,Mon,Business Direct,20+,2.393431481
+546,Evening,Tue,Economy,5 to 10,2.393399211
+193,Evening,Mon,Economy,10 to 20 ,2.390989357
+272,Morning,Sat,Economy,1 to 2,2.390656207
+352,Morning,Thu,Economy,5 to 10,2.386829024
+822,Evening,Fri,Business Direct,20+,2.385428407
+716,Morning,Fri,Economy,3 to 5,2.384187044
+568,Morning,Tue,Concierge+,1 to 2,2.383066953
+363,Evening,Tue,Business Break Journey,20+,2.37895407
+721,Night,Thu,Economy,10 to 20 ,2.376731161
+771,Evening,Sat,Economy,20+,2.376145567
+779,Night,Sat,Economy,1 to 2,2.373255946
+340,Night,Sun,Business Break Journey,1 to 2,2.369742032
+214,Evening,Fri,Concierge+,20+,2.366108806
+678,Night,Thu,Business Direct,1 to 2,2.366001584
+981,Morning,Sun,Business Break Journey,20+,2.364238718
+917,Morning,Sun,Business Break Journey,20+,2.360897183
+551,Evening,Mon,Business Direct,5 to 10,2.359442671
+48,Evening,Mon,Economy,20+,2.359243704
+560,Night,Tue,Concierge+,20+,2.358982758
+192,Night,Sun,Business+,1 to 2,2.357734476
+500,Morning,Sat,Economy,1 to 2,2.353045977
+963,Evening,Thu,Economy,5 to 10,2.352926753
+455,Night,Sat,Business Break Journey,1 to 2,2.349076166
+41,Morning,Thu,Concierge+,3 to 5,2.348814103
+460,Morning,Tue,Economy,20+,2.346792293
+640,Morning,Fri,Concierge+,20+,2.345978189
+637,Morning,Tue,Concierge+,10 to 20 ,2.344396089
+373,Evening,Thu,Business Break Journey,20+,2.343027777
+260,Morning,Wed,Business Direct,1 to 2,2.342935018
+187,Night,Wed,Economy,5 to 10,2.342531838
+266,Morning,Mon,Business+,10 to 20 ,2.340148084
+612,Morning,Wed,Business+,10 to 20 ,2.335077888
+84,Morning,Sun,Economy,20+,2.331696044
+30,Morning,Sun,Business+,1 to 2,2.331476013
+279,Night,Tue,Business Direct,3 to 5,2.327761254
+205,Evening,Mon,Business Direct,1 to 2,2.32496829
+196,Morning,Sat,Business Break Journey,5 to 10,2.324260196
+230,Evening,Tue,Concierge+,1 to 2,2.320161826
+865,Evening,Tue,Business+,3 to 5,2.31760139
+712,Evening,Fri,Business Break Journey,10 to 20 ,2.309623722
+490,Morning,Wed,Economy,5 to 10,2.306690764
+467,Night,Sun,Economy,1 to 2,2.305389604
+105,Morning,Sat,Concierge+,20+,2.304417466
+7,Morning,Fri,Economy,1 to 2,2.303747618
+753,Evening,Sat,Concierge+,10 to 20 ,2.297956546
+548,Night,Sat,Business Direct,1 to 2,2.29606697
+290,Evening,Fri,Economy,10 to 20 ,2.295804613
+65,Morning,Thu,Business+,1 to 2,2.289012525
+344,Morning,Wed,Economy,3 to 5,2.288390957
+991,Morning,Thu,Economy,3 to 5,2.287425223
+740,Morning,Sat,Business Break Journey,5 to 10,2.287202283
+382,Morning,Fri,Business Break Journey,1 to 2,2.28515183
+514,Night,Mon,Economy,20+,2.278265919
+245,Evening,Fri,Business Direct,3 to 5,2.274326312
+983,Night,Sat,Business Direct,1 to 2,2.267694612
+562,Morning,Fri,Concierge+,10 to 20 ,2.267176884
+944,Evening,Fri,Business Break Journey,10 to 20 ,2.264854896
+430,Morning,Fri,Business Direct,10 to 20 ,2.262085334
+399,Night,Sat,Economy,1 to 2,2.258873058
+39,Morning,Thu,Business Direct,10 to 20 ,2.257348125
+469,Morning,Fri,Business Break Journey,3 to 5,2.256106265
+154,Morning,Mon,Business Direct,1 to 2,2.255521618
+37,Evening,Wed,Business Break Journey,5 to 10,2.251982438
+826,Evening,Fri,Business Direct,10 to 20 ,2.251307135
+839,Morning,Mon,Business+,5 to 10,2.250659941
+181,Morning,Thu,Economy,1 to 2,2.248356045
+629,Morning,Tue,Business Direct,3 to 5,2.247431336
+325,Evening,Fri,Business Direct,10 to 20 ,2.24727023
+582,Evening,Tue,Economy,20+,2.245774662
+747,Evening,Tue,Economy,5 to 10,2.245632143
+714,Morning,Mon,Business Direct,10 to 20 ,2.243902241
+506,Morning,Mon,Concierge+,5 to 10,2.241251171
+353,Night,Sun,Business+,3 to 5,2.238713722
+78,Morning,Wed,Business+,20+,2.237578106
+470,Morning,Thu,Business Direct,5 to 10,2.236674082
+1000,Night,Thu,Business Break Journey,3 to 5,2.233311023
+925,Evening,Sun,Concierge+,3 to 5,2.230567323
+270,Evening,Sat,Business+,3 to 5,2.230384131
+619,Evening,Wed,Economy,5 to 10,2.226286834
+695,Night,Wed,Business Break Journey,3 to 5,2.214173363
+209,Evening,Tue,Business Break Journey,1 to 2,2.209177311
+916,Evening,Fri,Business Break Journey,10 to 20 ,2.207654042
+704,Morning,Wed,Business Direct,20+,2.203746962
+111,Night,Fri,Business Break Journey,20+,2.202701741
+162,Night,Thu,Business+,20+,2.202563046
+920,Morning,Thu,Business+,1 to 2,2.202095057
+967,Morning,Fri,Business Direct,3 to 5,2.200873162
+801,Night,Tue,Economy,20+,2.199651038
+689,Morning,Wed,Concierge+,1 to 2,2.198025897
+597,Evening,Thu,Economy,5 to 10,2.197400114
+331,Night,Tue,Economy,1 to 2,2.197340036
+369,Evening,Thu,Concierge+,5 to 10,2.188041655
+882,Evening,Wed,Concierge+,20+,2.184019945
+13,Evening,Sat,Economy,10 to 20 ,2.182358756
+473,Night,Wed,Concierge+,3 to 5,2.175209541
+643,Morning,Tue,Concierge+,5 to 10,2.17429052
+160,Morning,Mon,Business Break Journey,5 to 10,2.172402067
+625,Evening,Fri,Business Direct,5 to 10,2.165523758
+868,Morning,Wed,Business Break Journey,3 to 5,2.161105089
+280,Night,Tue,Business+,20+,2.160493397
+759,Morning,Tue,Business Direct,20+,2.158877671
+891,Morning,Sat,Business Break Journey,3 to 5,2.156698639
+159,Evening,Tue,Business+,20+,2.155915832
+976,Evening,Wed,Business Break Journey,1 to 2,2.155387416
+85,Evening,Wed,Business+,1 to 2,2.153765896
+10,Night,Thu,Business Break Journey,20+,2.152635804
+638,Evening,Mon,Concierge+,5 to 10,2.151631435
+723,Morning,Fri,Business+,5 to 10,2.150713504
+609,Evening,Sat,Business+,10 to 20 ,2.149104407
+810,Evening,Mon,Concierge+,1 to 2,2.148061087
+246,Morning,Fri,Business+,20+,2.146017023
+897,Evening,Tue,Concierge+,10 to 20 ,2.143194846
+267,Morning,Mon,Business Break Journey,10 to 20 ,2.140757162
+518,Morning,Fri,Business+,5 to 10,2.138973901
+648,Night,Wed,Business Break Journey,3 to 5,2.137656151
+254,Morning,Sat,Business+,3 to 5,2.131482743
+942,Night,Wed,Business Break Journey,3 to 5,2.131261054
+985,Morning,Wed,Economy,20+,2.130528019
+147,Night,Wed,Economy,20+,2.12770505
+860,Night,Sun,Business Direct,5 to 10,2.126619498
+89,Morning,Mon,Business+,5 to 10,2.124404158
+847,Morning,Thu,Business+,3 to 5,2.123473093
+480,Evening,Thu,Economy,5 to 10,2.123230927
+309,Evening,Thu,Business Break Journey,5 to 10,2.122832734
+291,Evening,Fri,Economy,5 to 10,2.11990456
+248,Morning,Wed,Economy,1 to 2,2.117329236
+798,Night,Sun,Business Direct,20+,2.112936387
+790,Morning,Mon,Business+,3 to 5,2.110607716
+742,Morning,Sat,Business Direct,1 to 2,2.109345481
+389,Evening,Fri,Concierge+,10 to 20 ,2.109058945
+639,Night,Tue,Business+,20+,2.10586975
+492,Morning,Thu,Business+,3 to 5,2.105737952
+351,Evening,Sun,Concierge+,1 to 2,2.10192694
+547,Morning,Sat,Economy,20+,2.098274054
+479,Morning,Thu,Business Direct,20+,2.097715056
+611,Evening,Mon,Business Direct,1 to 2,2.096894335
+636,Evening,Sat,Business Direct,3 to 5,2.095072694
+615,Morning,Wed,Economy,20+,2.095070417
+876,Morning,Wed,Business Break Journey,1 to 2,2.092492802
+962,Evening,Thu,Concierge+,1 to 2,2.091740144
+400,Evening,Sat,Economy,5 to 10,2.0872374
+298,Evening,Sun,Business+,20+,2.087122473
+59,Morning,Fri,Economy,3 to 5,2.082274451
+958,Evening,Sun,Business Break Journey,10 to 20 ,2.080761617
+510,Morning,Wed,Business Direct,20+,2.075585941
+848,Evening,Thu,Business+,1 to 2,2.075252913
+356,Morning,Tue,Business+,20+,2.071350219
+504,Evening,Wed,Concierge+,5 to 10,2.070561075
+785,Morning,Tue,Economy,3 to 5,2.068915729
+323,Evening,Sat,Concierge+,3 to 5,2.06834378
+79,Evening,Wed,Business+,5 to 10,2.068073002
+849,Night,Wed,Business Break Journey,3 to 5,2.066283729
+158,Night,Fri,Business Direct,5 to 10,2.064638367
+403,Morning,Fri,Concierge+,10 to 20 ,2.06082721
+857,Morning,Sun,Business Break Journey,5 to 10,2.058281017
+956,Morning,Sat,Business+,10 to 20 ,2.049121634
+426,Night,Tue,Business Direct,20+,2.048639907
+166,Evening,Mon,Economy,10 to 20 ,2.045961083
+301,Night,Wed,Business+,1 to 2,2.045027136
+354,Evening,Mon,Concierge+,1 to 2,2.044479195
+421,Evening,Thu,Business+,3 to 5,2.04441763
+335,Evening,Sat,Business+,20+,2.044150927
+52,Morning,Thu,Business Break Journey,20+,2.041712005
+674,Night,Sun,Business Break Journey,20+,2.03682545
+333,Night,Sat,Business Break Journey,10 to 20 ,2.030591492
+98,Morning,Thu,Concierge+,20+,2.028881607
+845,Night,Fri,Economy,20+,2.028409273
+922,Morning,Sun,Business Direct,1 to 2,2.02281176
+488,Night,Tue,Business Break Journey,1 to 2,2.020201776
+804,Morning,Mon,Concierge+,3 to 5,2.017397044
+512,Night,Mon,Business+,1 to 2,2.01510222
+239,Evening,Thu,Business Break Journey,1 to 2,2.014308768
+861,Evening,Tue,Business+,3 to 5,2.014204286
+23,Evening,Sun,Business Direct,5 to 10,2.014035226
+123,Evening,Thu,Business Break Journey,3 to 5,2.013909376
+93,Evening,Sun,Concierge+,1 to 2,2.012938199
+621,Evening,Thu,Business+,5 to 10,2.010683364
+665,Night,Sat,Business+,5 to 10,2.006312303
+727,Night,Tue,Business Direct,10 to 20 ,2.006266297
+843,Evening,Wed,Concierge+,5 to 10,2.00607221
+877,Night,Tue,Business Break Journey,20+,2.005651625
+659,Morning,Fri,Concierge+,5 to 10,1.998326011
+53,Morning,Thu,Business Direct,10 to 20 ,1.993405459
+66,Evening,Wed,Business Direct,3 to 5,1.993396802
+180,Night,Wed,Business Break Journey,10 to 20 ,1.989209608
+474,Night,Sun,Economy,5 to 10,1.988499709
+108,Evening,Wed,Business Break Journey,1 to 2,1.987420204
+44,Evening,Tue,Business Break Journey,20+,1.978845115
+553,Night,Thu,Economy,1 to 2,1.97663817
+190,Night,Sun,Business+,10 to 20 ,1.976081152
+692,Morning,Tue,Business+,5 to 10,1.973922884
+995,Night,Thu,Business Break Journey,3 to 5,1.973239552
+874,Night,Sun,Business Direct,3 to 5,1.970352849
+663,Morning,Fri,Economy,5 to 10,1.968153059
+64,Night,Thu,Business+,5 to 10,1.967342899
+150,Morning,Sun,Business Break Journey,3 to 5,1.966167129
+776,Evening,Sun,Economy,1 to 2,1.96402522
+664,Evening,Fri,Business+,5 to 10,1.961610754
+799,Morning,Sun,Business Break Journey,20+,1.960970051
+16,Night,Thu,Business Break Journey,10 to 20 ,1.960722359
+522,Evening,Wed,Business+,1 to 2,1.95661216
+903,Evening,Wed,Economy,20+,1.950096887
+669,Morning,Mon,Economy,20+,1.949054457
+225,Morning,Sun,Business+,5 to 10,1.948214399
+126,Night,Fri,Concierge+,20+,1.947758407
+534,Morning,Mon,Concierge+,3 to 5,1.947387697
+442,Night,Thu,Business Direct,5 to 10,1.947347128
+122,Morning,Sat,Economy,20+,1.946508421
+174,Night,Mon,Concierge+,10 to 20 ,1.946083627
+894,Morning,Sun,Business Direct,3 to 5,1.9453602
+232,Evening,Sat,Business Break Journey,20+,1.94492011
+151,Night,Sat,Concierge+,10 to 20 ,1.943136261
+12,Evening,Sun,Concierge+,5 to 10,1.939956539
+951,Night,Sat,Concierge+,20+,1.93670127
+887,Night,Thu,Business+,5 to 10,1.933949897
+97,Night,Sun,Business Direct,3 to 5,1.931956264
+661,Morning,Tue,Business+,3 to 5,1.930731545
+338,Evening,Thu,Business Break Journey,3 to 5,1.929191141
+627,Evening,Fri,Business Break Journey,3 to 5,1.928203205
+81,Evening,Sat,Economy,1 to 2,1.925943216
+697,Evening,Sat,Business Break Journey,1 to 2,1.923300707
+586,Evening,Fri,Business Break Journey,20+,1.922509012
+722,Morning,Thu,Business Direct,1 to 2,1.922407681
+27,Evening,Mon,Business Break Journey,5 to 10,1.917872813
+966,Evening,Fri,Business Break Journey,1 to 2,1.917859662
+388,Night,Wed,Business+,5 to 10,1.911907654
+293,Evening,Thu,Business Direct,20+,1.909664378
+54,Evening,Fri,Business+,20+,1.9087149
+764,Evening,Sun,Economy,20+,1.908630053
+761,Night,Wed,Concierge+,5 to 10,1.908249628
+161,Night,Wed,Business Break Journey,10 to 20 ,1.904451615
+317,Night,Mon,Business Break Journey,1 to 2,1.904281527
+773,Evening,Wed,Business+,3 to 5,1.903323862
+559,Night,Sat,Business Break Journey,5 to 10,1.898500318
+807,Evening,Mon,Business Break Journey,5 to 10,1.897986608
+383,Morning,Mon,Business+,1 to 2,1.895781761
+19,Evening,Fri,Concierge+,3 to 5,1.895628247
+273,Morning,Sun,Business+,3 to 5,1.894401713
+889,Evening,Thu,Concierge+,20+,1.893260184
+364,Morning,Thu,Business+,20+,1.891686381
+641,Night,Sat,Concierge+,20+,1.890152978
+444,Morning,Tue,Business+,10 to 20 ,1.88896495
+342,Night,Fri,Business Direct,3 to 5,1.888679672
+133,Evening,Mon,Concierge+,10 to 20 ,1.886080049
+306,Morning,Fri,Concierge+,5 to 10,1.882331047
+361,Night,Fri,Business+,20+,1.878183884
+191,Evening,Tue,Economy,10 to 20 ,1.875934545
+855,Morning,Fri,Business Direct,10 to 20 ,1.873603259
+49,Night,Thu,Business Break Journey,3 to 5,1.87060855
+148,Night,Wed,Business Break Journey,5 to 10,1.870208422
+315,Evening,Tue,Economy,3 to 5,1.869571177
+116,Night,Tue,Business+,3 to 5,1.868841211
+791,Night,Fri,Business Direct,5 to 10,1.86823706
+927,Night,Sun,Concierge+,10 to 20 ,1.868015593
+530,Morning,Thu,Business Direct,10 to 20 ,1.867013256
+219,Evening,Wed,Business Direct,10 to 20 ,1.862471419
+310,Night,Tue,Concierge+,3 to 5,1.860745425
+803,Night,Mon,Business Direct,3 to 5,1.859723464
+212,Morning,Wed,Business Direct,10 to 20 ,1.853251132
+767,Night,Tue,Business Direct,1 to 2,1.849146606
+429,Evening,Tue,Concierge+,10 to 20 ,1.848275031
+614,Night,Sat,Business Direct,3 to 5,1.846248644
+487,Night,Fri,Concierge+,3 to 5,1.844312128
+348,Evening,Sat,Concierge+,20+,1.843641678
+433,Morning,Fri,Business+,10 to 20 ,1.843470913
+715,Evening,Thu,Economy,10 to 20 ,1.841906673
+395,Night,Sun,Economy,10 to 20 ,1.840413146
+211,Evening,Sat,Business Break Journey,5 to 10,1.837120609
+163,Evening,Wed,Business Direct,3 to 5,1.83441361
+302,Night,Fri,Economy,5 to 10,1.834384026
+329,Morning,Wed,Business Direct,10 to 20 ,1.831173587
+667,Evening,Sun,Concierge+,3 to 5,1.82710075
+579,Night,Tue,Business+,20+,1.826695558
+67,Night,Tue,Business Direct,1 to 2,1.820045216
+418,Morning,Tue,Economy,10 to 20 ,1.819818955
+741,Evening,Sat,Concierge+,1 to 2,1.814004991
+92,Evening,Fri,Business+,3 to 5,1.813952809
+806,Morning,Mon,Business+,10 to 20 ,1.813867902
+50,Morning,Sat,Business Direct,3 to 5,1.811581715
+337,Morning,Sat,Business Direct,5 to 10,1.806537905
+286,Evening,Tue,Business Break Journey,3 to 5,1.805573447
+939,Morning,Wed,Business+,10 to 20 ,1.803936628
+402,Night,Thu,Economy,1 to 2,1.802433826
+610,Night,Thu,Concierge+,20+,1.801548256
+844,Morning,Sun,Economy,10 to 20 ,1.798705535
+341,Morning,Thu,Concierge+,20+,1.797707148
+682,Night,Thu,Economy,5 to 10,1.797597672
+262,Morning,Tue,Economy,1 to 2,1.79497889
+439,Morning,Wed,Business Break Journey,5 to 10,1.794848688
+119,Morning,Tue,Business Break Journey,10 to 20 ,1.793796108
+862,Evening,Sat,Economy,5 to 10,1.791226394
+26,Night,Fri,Economy,10 to 20 ,1.790515382
+231,Morning,Sat,Business Direct,1 to 2,1.790467593
+828,Evening,Thu,Business Break Journey,5 to 10,1.789095975
+269,Evening,Thu,Economy,3 to 5,1.787125823
+40,Night,Sun,Business+,20+,1.785224817
+683,Evening,Sat,Economy,20+,1.782394973
+631,Morning,Mon,Economy,20+,1.782376005
+941,Morning,Thu,Business Direct,3 to 5,1.78004817
+307,Night,Thu,Business+,1 to 2,1.779068276
+762,Night,Mon,Economy,10 to 20 ,1.778651963
+970,Evening,Fri,Business Direct,5 to 10,1.776325769
+618,Night,Mon,Business+,3 to 5,1.773826389
+994,Evening,Tue,Business Direct,5 to 10,1.772564331
+431,Morning,Mon,Business+,1 to 2,1.771064962
+702,Morning,Wed,Business+,10 to 20 ,1.770707606
+285,Evening,Wed,Economy,5 to 10,1.770308
+321,Evening,Wed,Business Direct,5 to 10,1.76947294
+28,Morning,Mon,Economy,10 to 20 ,1.768622833
+969,Night,Sat,Concierge+,5 to 10,1.768487197
+249,Morning,Fri,Business Direct,3 to 5,1.766578353
+866,Night,Mon,Concierge+,3 to 5,1.762089504
+401,Evening,Tue,Business Direct,10 to 20 ,1.755535013
+457,Night,Fri,Concierge+,10 to 20 ,1.752221196
+565,Evening,Fri,Economy,3 to 5,1.750689381
+607,Morning,Sun,Business Direct,20+,1.750195532
+600,Evening,Tue,Economy,3 to 5,1.749435285
+277,Night,Wed,Business+,5 to 10,1.748943916
+36,Night,Sun,Business Direct,20+,1.748352659
+410,Night,Mon,Economy,3 to 5,1.745408649
+909,Evening,Fri,Business Break Journey,1 to 2,1.74294555
+34,Morning,Sun,Business Direct,10 to 20 ,1.740445373
+303,Morning,Tue,Business Break Journey,5 to 10,1.739828925
+646,Morning,Fri,Business Break Journey,3 to 5,1.735514145
+813,Morning,Sat,Concierge+,5 to 10,1.735176336
+755,Morning,Sat,Business Direct,1 to 2,1.734483547
+197,Morning,Fri,Business+,1 to 2,1.733986763
+392,Evening,Wed,Business Break Journey,3 to 5,1.729724738
+222,Morning,Mon,Business+,5 to 10,1.729416925
+964,Evening,Wed,Business Break Journey,1 to 2,1.729108666
+933,Night,Sun,Business Break Journey,1 to 2,1.727301905
+935,Evening,Thu,Concierge+,3 to 5,1.724879158
+802,Evening,Thu,Concierge+,10 to 20 ,1.724672899
+224,Night,Mon,Concierge+,10 to 20 ,1.721248272
+888,Night,Sat,Business Break Journey,10 to 20 ,1.720887865
+770,Night,Sat,Business Break Journey,3 to 5,1.718464531
+21,Night,Sun,Business+,1 to 2,1.718414749
+602,Night,Fri,Business+,5 to 10,1.717214487
+999,Night,Thu,Business Break Journey,10 to 20 ,1.716797456
+642,Evening,Sun,Concierge+,10 to 20 ,1.715006413
+296,Morning,Sat,Business+,20+,1.714465186
+973,Night,Sat,Business+,10 to 20 ,1.711024966
+484,Morning,Mon,Business Direct,3 to 5,1.709896229
+699,Morning,Sun,Economy,20+,1.708868736
+904,Evening,Thu,Business+,3 to 5,1.708839265
+107,Evening,Sun,Business Direct,10 to 20 ,1.708046517
+823,Morning,Mon,Economy,1 to 2,1.706448095
+556,Night,Fri,Economy,20+,1.706102307
+701,Night,Thu,Concierge+,20+,1.705978896
+772,Evening,Sun,Economy,1 to 2,1.703225014
+51,Night,Thu,Business Break Journey,20+,1.702208688
+685,Night,Sun,Business+,20+,1.701518604
+690,Evening,Mon,Economy,5 to 10,1.699957784
+566,Evening,Mon,Economy,20+,1.697264031
+577,Evening,Tue,Business Break Journey,10 to 20 ,1.697211388
+744,Evening,Fri,Business Direct,5 to 10,1.696610669
+456,Morning,Fri,Economy,1 to 2,1.696319246
+390,Morning,Sun,Business Break Journey,10 to 20 ,1.696318406
+915,Evening,Sat,Business+,3 to 5,1.691123144
+656,Morning,Sun,Concierge+,5 to 10,1.68887044
+420,Evening,Wed,Business Break Journey,10 to 20 ,1.687841782
+153,Night,Tue,Business Direct,5 to 10,1.687056225
+594,Night,Thu,Business Direct,1 to 2,1.685696481
+103,Evening,Tue,Business Direct,1 to 2,1.685139653
+886,Morning,Wed,Business Break Journey,20+,1.681205156
+940,Night,Fri,Business Break Journey,1 to 2,1.679258654
+132,Night,Wed,Business+,3 to 5,1.677304516
+406,Evening,Wed,Economy,1 to 2,1.67443249
+509,Night,Tue,Concierge+,5 to 10,1.67405322
+505,Morning,Sat,Concierge+,1 to 2,1.67287764
+817,Night,Fri,Business+,20+,1.671371916
+834,Morning,Tue,Business Break Journey,3 to 5,1.670308616
+521,Night,Thu,Business Break Journey,3 to 5,1.668303934
+841,Morning,Fri,Business Break Journey,3 to 5,1.668095704
+769,Morning,Fri,Business Break Journey,3 to 5,1.666590385
+435,Evening,Sat,Business Break Journey,3 to 5,1.666571551
+691,Evening,Thu,Business+,3 to 5,1.66472379
+628,Night,Mon,Concierge+,5 to 10,1.661130061
+313,Night,Tue,Business Direct,10 to 20 ,1.656128615
+984,Morning,Tue,Business Direct,5 to 10,1.654411096
+899,Morning,Sat,Concierge+,5 to 10,1.653474239
+818,Morning,Mon,Concierge+,5 to 10,1.650841324
+90,Night,Sat,Business+,10 to 20 ,1.650455929
+183,Evening,Wed,Concierge+,3 to 5,1.648909761
+598,Night,Sun,Business+,10 to 20 ,1.645410886
+110,Morning,Wed,Business+,5 to 10,1.641955071
+308,Morning,Sat,Business+,3 to 5,1.640879086
+436,Night,Sat,Business+,20+,1.640414761
+620,Night,Mon,Business+,10 to 20 ,1.640003205
+544,Evening,Fri,Business Break Journey,5 to 10,1.638568344
+99,Evening,Wed,Business+,1 to 2,1.637786941
+858,Morning,Wed,Concierge+,1 to 2,1.635558959
+800,Night,Sat,Business+,20+,1.634948397
+227,Morning,Mon,Business Direct,3 to 5,1.631851535
+297,Morning,Thu,Economy,3 to 5,1.62807049
+603,Morning,Thu,Economy,10 to 20 ,1.62219163
+208,Night,Wed,Business Break Journey,3 to 5,1.620728762
+988,Morning,Wed,Business+,3 to 5,1.619710938
+471,Evening,Wed,Concierge+,3 to 5,1.6179027
+483,Night,Wed,Business Break Journey,1 to 2,1.611759182
+872,Night,Thu,Business Break Journey,1 to 2,1.609483274
+220,Morning,Wed,Business Direct,10 to 20 ,1.608149594
+583,Morning,Thu,Business Break Journey,10 to 20 ,1.606365352
+676,Night,Mon,Economy,3 to 5,1.602525947
+567,Night,Thu,Business Direct,1 to 2,1.602309995
+928,Evening,Wed,Business Direct,10 to 20 ,1.601123845
+86,Morning,Wed,Business+,5 to 10,1.600614787
+644,Evening,Sat,Business Direct,1 to 2,1.596752338
+645,Morning,Thu,Business+,10 to 20 ,1.595373202
+244,Evening,Tue,Concierge+,20+,1.59279702
+495,Morning,Fri,Business Break Journey,5 to 10,1.592164826
+538,Night,Thu,Business+,5 to 10,1.592062526
+884,Night,Sat,Business+,5 to 10,1.592012294
+366,Night,Mon,Business Break Journey,10 to 20 ,1.590876204
+952,Evening,Mon,Concierge+,10 to 20 ,1.590106305
+468,Morning,Wed,Concierge+,20+,1.588658065
+413,Evening,Thu,Business Break Journey,5 to 10,1.588490792
+934,Evening,Fri,Business+,5 to 10,1.587818709
+198,Night,Mon,Economy,20+,1.586229728
+394,Evening,Thu,Economy,1 to 2,1.585497387
+528,Night,Tue,Business Direct,5 to 10,1.583733244
+18,Morning,Thu,Business+,3 to 5,1.579009698
+405,Night,Tue,Economy,1 to 2,1.578692886
+760,Morning,Tue,Business Direct,3 to 5,1.577001263
+756,Evening,Sat,Economy,5 to 10,1.576187637
+61,Evening,Fri,Business Break Journey,3 to 5,1.575212391
+792,Evening,Tue,Business+,10 to 20 ,1.57343295
+613,Evening,Sun,Economy,5 to 10,1.571761396
+95,Evening,Tue,Economy,10 to 20 ,1.569861326
+213,Evening,Wed,Business+,10 to 20 ,1.567993857
+398,Night,Thu,Concierge+,3 to 5,1.566667308
+117,Evening,Sat,Concierge+,20+,1.565564813
+299,Night,Fri,Concierge+,10 to 20 ,1.564654445
+786,Night,Tue,Economy,1 to 2,1.563065884
+131,Evening,Mon,Economy,5 to 10,1.560736404
+465,Night,Sat,Business Direct,10 to 20 ,1.560404127
+396,Evening,Tue,Business Break Journey,20+,1.557713961
+905,Evening,Mon,Business+,10 to 20 ,1.557609369
+443,Morning,Sun,Economy,10 to 20 ,1.557159282
+854,Evening,Sat,Business Direct,10 to 20 ,1.549383689
+914,Morning,Sat,Business Break Journey,3 to 5,1.549173112
+263,Evening,Sun,Concierge+,5 to 10,1.54756336
+255,Night,Thu,Business+,20+,1.546743369
+738,Morning,Sat,Business Break Journey,10 to 20 ,1.546559302
+878,Morning,Thu,Business Direct,20+,1.543051924
+489,Night,Mon,Business+,1 to 2,1.540829971
+561,Morning,Mon,Business Direct,3 to 5,1.54010493
+459,Morning,Sat,Business Direct,20+,1.536254688
+910,Morning,Fri,Concierge+,5 to 10,1.535907097
+287,Morning,Fri,Economy,1 to 2,1.53307962
+677,Morning,Sun,Business Direct,1 to 2,1.53150885
+221,Morning,Mon,Business Direct,5 to 10,1.528729186
+923,Morning,Tue,Business+,5 to 10,1.528663385
+998,Morning,Sun,Business Break Journey,3 to 5,1.527816944
+265,Evening,Fri,Concierge+,10 to 20 ,1.524323389
+593,Night,Fri,Business Direct,10 to 20 ,1.52164029
+113,Night,Mon,Business Break Journey,5 to 10,1.52108101
+268,Evening,Sun,Concierge+,3 to 5,1.520806381
+284,Night,Fri,Business+,3 to 5,1.52032226
+901,Night,Tue,Economy,20+,1.517961002
+4,Evening,Sun,Business+,20+,1.514608454
+825,Night,Fri,Economy,10 to 20 ,1.513844279
+204,Morning,Wed,Business Direct,10 to 20 ,1.51316205
+584,Evening,Tue,Economy,5 to 10,1.511760758
+327,Evening,Mon,Business Break Journey,20+,1.509382879
+142,Night,Sat,Economy,3 to 5,1.503100326
+100,Evening,Thu,Business Direct,10 to 20 ,1.503058709
+525,Evening,Wed,Business Break Journey,5 to 10,1.502827395
+573,Evening,Wed,Business+,10 to 20 ,1.500507183
+784,Night,Thu,Economy,20+,1.49976844
+43,Night,Fri,Business Break Journey,1 to 2,1.499069764
+852,Evening,Tue,Business Direct,10 to 20 ,1.497825567
+102,Evening,Sun,Business+,3 to 5,1.495727168
+590,Night,Wed,Business+,1 to 2,1.493982423
+835,Night,Mon,Business+,5 to 10,1.493793185
+864,Evening,Sun,Business+,1 to 2,1.489499342
+345,Morning,Sun,Concierge+,1 to 2,1.48701802
+228,Night,Fri,Business Direct,1 to 2,1.485083215
+229,Night,Thu,Business Direct,5 to 10,1.477524923
+519,Evening,Sat,Economy,5 to 10,1.477523769
+101,Evening,Sat,Business Break Journey,10 to 20 ,1.477269104
+278,Morning,Sun,Business Direct,3 to 5,1.475799339
+314,Night,Tue,Business Direct,1 to 2,1.475174367
+242,Night,Tue,Business Direct,3 to 5,1.474636713
+207,Evening,Sat,Concierge+,10 to 20 ,1.472715696
+842,Night,Thu,Business Direct,3 to 5,1.471368884
+788,Morning,Sun,Concierge+,20+,1.470103162
+859,Night,Sat,Business Direct,1 to 2,1.469183461
+217,Morning,Mon,Business Direct,20+,1.469122007
+794,Evening,Fri,Business+,20+,1.465184909
+223,Evening,Sat,Business Break Journey,3 to 5,1.46253669
+856,Night,Sat,Economy,20+,1.462127254
+486,Morning,Thu,Business+,20+,1.460405543
+463,Evening,Mon,Business+,3 to 5,1.458909491
+475,Night,Wed,Concierge+,3 to 5,1.456942738
+932,Morning,Mon,Business Break Journey,5 to 10,1.456801571
+384,Night,Sun,Concierge+,20+,1.456617288
+294,Night,Wed,Concierge+,10 to 20 ,1.456561346
+912,Morning,Sat,Business+,3 to 5,1.454982557
+980,Evening,Sat,Business Break Journey,10 to 20 ,1.454491229
+114,Morning,Sun,Business Direct,20+,1.45375123
+437,Morning,Sat,Concierge+,1 to 2,1.45331433
+735,Evening,Mon,Business+,3 to 5,1.452216574
+370,Morning,Mon,Concierge+,5 to 10,1.451970629
+961,Evening,Mon,Business Break Journey,5 to 10,1.451777794
+167,Night,Tue,Business Direct,1 to 2,1.44919883
+660,Morning,Sun,Business Direct,20+,1.448932299
+17,Night,Tue,Business+,10 to 20 ,1.447409963
+811,Evening,Thu,Business+,3 to 5,1.446466896
+47,Evening,Sat,Business+,3 to 5,1.445919395
+569,Morning,Sat,Economy,10 to 20 ,1.441199108
+554,Evening,Thu,Economy,1 to 2,1.438404441
+900,Evening,Thu,Business Break Journey,10 to 20 ,1.436379869
+380,Night,Fri,Business Break Journey,3 to 5,1.434275874
+288,Night,Sat,Business Break Journey,5 to 10,1.434274084
+243,Evening,Fri,Business Break Journey,3 to 5,1.433519835
+765,Evening,Wed,Concierge+,20+,1.428918774
+908,Morning,Thu,Business Direct,1 to 2,1.428370439
+870,Morning,Sat,Concierge+,20+,1.428040808
+705,Morning,Wed,Concierge+,5 to 10,1.427158329
+247,Night,Sun,Business Break Journey,5 to 10,1.42497861
+520,Morning,Thu,Business Direct,5 to 10,1.421949878
+730,Evening,Sun,Concierge+,5 to 10,1.421188648
+20,Evening,Thu,Business Direct,10 to 20 ,1.42100054
+94,Night,Thu,Business+,3 to 5,1.420815351
+324,Evening,Thu,Business+,3 to 5,1.420783475
+649,Morning,Thu,Business Break Journey,10 to 20 ,1.420485047
+532,Evening,Thu,Business Direct,10 to 20 ,1.419631374
+550,Night,Tue,Business Direct,1 to 2,1.416946242
+417,Morning,Tue,Business Direct,10 to 20 ,1.416372866
+783,Morning,Wed,Economy,5 to 10,1.415956128
+233,Morning,Fri,Concierge+,1 to 2,1.414554024
+890,Night,Tue,Business Break Journey,5 to 10,1.414308618
+751,Evening,Wed,Economy,10 to 20 ,1.413308545
+717,Night,Tue,Business+,20+,1.413160927
+357,Morning,Sun,Economy,3 to 5,1.413106274
+541,Morning,Fri,Concierge+,1 to 2,1.410112795
+91,Morning,Thu,Concierge+,1 to 2,1.410014427
+658,Evening,Tue,Concierge+,3 to 5,1.408749626
+496,Night,Wed,Business Break Journey,20+,1.408213535
+623,Evening,Mon,Economy,5 to 10,1.407202844
+542,Evening,Sun,Business Direct,10 to 20 ,1.406429138
+450,Morning,Tue,Business+,10 to 20 ,1.405772804
+974,Evening,Thu,Concierge+,1 to 2,1.405753971
+896,Night,Wed,Concierge+,3 to 5,1.404367896
+507,Night,Tue,Concierge+,1 to 2,1.404105697
+346,Morning,Wed,Business+,1 to 2,1.403929762
+775,Night,Mon,Business Break Journey,3 to 5,1.40158358
+152,Night,Fri,Business Break Journey,1 to 2,1.399730163
+305,Morning,Tue,Business Break Journey,3 to 5,1.398511707
+130,Morning,Wed,Concierge+,1 to 2,1.397649579
+493,Night,Sat,Economy,1 to 2,1.397331473
+482,Night,Mon,Business Direct,5 to 10,1.396142272
+946,Evening,Sat,Business Direct,1 to 2,1.394669846
+397,Evening,Fri,Business Direct,1 to 2,1.390727607
+881,Morning,Wed,Business Break Journey,20+,1.390360438
+199,Night,Thu,Business Break Journey,3 to 5,1.390024102
+571,Morning,Sat,Business+,1 to 2,1.38985192
+736,Morning,Wed,Business+,1 to 2,1.388259011
+987,Night,Sat,Economy,1 to 2,1.387893906
+758,Evening,Fri,Business+,20+,1.386621932
+713,Evening,Sat,Business Direct,1 to 2,1.385948836
+68,Morning,Thu,Business+,3 to 5,1.383909873
+129,Morning,Wed,Business Break Journey,10 to 20 ,1.380899074
+425,Morning,Sat,Economy,20+,1.380417191
+820,Night,Sun,Concierge+,20+,1.379915374
+201,Evening,Sat,Business Break Journey,20+,1.375193806
+491,Evening,Thu,Economy,5 to 10,1.373381799
+252,Evening,Sat,Concierge+,1 to 2,1.372065932
+281,Evening,Thu,Business Break Journey,1 to 2,1.366636637
+169,Night,Mon,Concierge+,20+,1.364130894
+106,Night,Fri,Business Break Journey,5 to 10,1.363952656
+289,Morning,Thu,Concierge+,1 to 2,1.362459383
+485,Evening,Mon,Business+,5 to 10,1.361572001
+481,Evening,Wed,Business Break Journey,20+,1.360884581
+238,Evening,Fri,Business Direct,20+,1.357980132
+893,Morning,Tue,Business Direct,1 to 2,1.357578682
+274,Morning,Mon,Economy,10 to 20 ,1.354688214
+149,Night,Fri,Business+,10 to 20 ,1.352986953
+816,Night,Sun,Economy,5 to 10,1.35040541
+63,Morning,Thu,Business Break Journey,5 to 10,1.349574449
+271,Night,Mon,Business Direct,1 to 2,1.348351523
+69,Evening,Sat,Business Direct,3 to 5,1.345782311
+875,Morning,Fri,Business Break Journey,3 to 5,1.345773739
+869,Evening,Thu,Business+,5 to 10,1.344648709
+112,Night,Wed,Business+,3 to 5,1.343503239
+919,Morning,Thu,Concierge+,10 to 20 ,1.339327774
+155,Night,Mon,Business+,5 to 10,1.339101189
+441,Night,Wed,Business+,5 to 10,1.338801115
+892,Night,Sun,Business+,20+,1.333761003
+438,Evening,Thu,Economy,20+,1.333232012
+358,Night,Fri,Economy,3 to 5,1.330728959
+879,Evening,Sun,Economy,20+,1.32937516
+35,Evening,Thu,Business+,20+,1.327080641
+226,Evening,Tue,Business Break Journey,1 to 2,1.325854769
+630,Night,Thu,Business+,1 to 2,1.324506951
+175,Night,Sat,Business Break Journey,5 to 10,1.323628963
+375,Night,Thu,Concierge+,1 to 2,1.323610645
+948,Morning,Mon,Economy,10 to 20 ,1.323213116
+60,Night,Tue,Business+,1 to 2,1.321459974
+950,Night,Fri,Concierge+,1 to 2,1.320339139
+22,Morning,Sat,Business Direct,3 to 5,1.320005435
+926,Evening,Wed,Business+,5 to 10,1.318199222
+558,Morning,Sat,Concierge+,20+,1.315857787
+543,Morning,Sat,Business Break Journey,1 to 2,1.315771304
+57,Evening,Wed,Business Direct,10 to 20 ,1.311126007
+72,Morning,Sat,Business Direct,1 to 2,1.310921281
+304,Morning,Wed,Concierge+,20+,1.308218904
+464,Night,Sat,Concierge+,20+,1.307778094
+156,Night,Mon,Business+,1 to 2,1.307351645
+979,Morning,Sun,Business+,3 to 5,1.307293627
+215,Morning,Mon,Business Direct,5 to 10,1.304922658
+587,Morning,Thu,Business+,3 to 5,1.304915369
+827,Evening,Sat,Concierge+,20+,1.304136061
+863,Evening,Tue,Concierge+,10 to 20 ,1.303668712
+371,Evening,Fri,Business+,10 to 20 ,1.296822886
+320,Evening,Fri,Economy,10 to 20 ,1.29615455
+368,Evening,Wed,Concierge+,5 to 10,1.295661516
+96,Evening,Sun,Business Break Journey,20+,1.294666901
+319,Night,Tue,Concierge+,3 to 5,1.293279162
+251,Morning,Sun,Business Break Journey,5 to 10,1.292977607
+326,Evening,Mon,Business Direct,1 to 2,1.292738764
+651,Evening,Wed,Economy,5 to 10,1.290956088
+585,Morning,Sat,Business Break Journey,10 to 20 ,1.290829878
+172,Night,Thu,Business+,20+,1.289353675
+805,Night,Sat,Concierge+,1 to 2,1.287262889
+838,Evening,Fri,Concierge+,5 to 10,1.283166827
+971,Morning,Fri,Concierge+,5 to 10,1.28230669
+256,Evening,Mon,Economy,20+,1.282022175
+391,Morning,Tue,Business Direct,5 to 10,1.27957243
+945,Evening,Thu,Business Break Journey,10 to 20 ,1.279009554
+168,Morning,Wed,Business Break Journey,10 to 20 ,1.278805309
+416,Night,Tue,Business Direct,20+,1.278535875
+840,Night,Mon,Concierge+,1 to 2,1.277327149
+451,Morning,Fri,Economy,10 to 20 ,1.275204229
+959,Morning,Thu,Business Break Journey,20+,1.273787788
+195,Evening,Mon,Business+,20+,1.273130664
+624,Night,Sun,Economy,5 to 10,1.272420638
+549,Morning,Mon,Business Break Journey,5 to 10,1.27224318
+599,Night,Sat,Concierge+,5 to 10,1.271515099
+355,Night,Sun,Economy,10 to 20 ,1.26910939
+32,Evening,Wed,Business Direct,1 to 2,1.268741841
+83,Morning,Sat,Business Break Journey,3 to 5,1.268021076
+990,Night,Sat,Business+,10 to 20 ,1.26751668
+657,Night,Fri,Business+,1 to 2,1.262925782
+711,Night,Sat,Concierge+,3 to 5,1.259531678
+833,Morning,Tue,Economy,20+,1.255855231
+572,Evening,Tue,Business+,10 to 20 ,1.253771645
+513,Night,Fri,Business Break Journey,3 to 5,1.251455988
+188,Evening,Thu,Concierge+,3 to 5,1.25008416
+581,Night,Tue,Business Direct,5 to 10,1.249258553
+440,Night,Sun,Business+,10 to 20 ,1.24663739
+906,Night,Wed,Business Break Journey,3 to 5,1.246489015
+343,Night,Sun,Business Direct,1 to 2,1.246077339
+907,Night,Thu,Business Direct,5 to 10,1.245644718
+968,Night,Sat,Business Break Journey,1 to 2,1.245400248
+146,Evening,Wed,Concierge+,3 to 5,1.244974949
+880,Evening,Tue,Business Direct,5 to 10,1.243959065
+503,Evening,Mon,Concierge+,10 to 20 ,1.243518202
+74,Night,Mon,Business+,5 to 10,1.242399766
+972,Morning,Fri,Business Direct,5 to 10,1.242374971
+393,Morning,Fri,Business Direct,10 to 20 ,1.240367162
+527,Night,Wed,Concierge+,10 to 20 ,1.239936146
+821,Night,Wed,Business Break Journey,1 to 2,1.236901384
+362,Morning,Sat,Business Direct,5 to 10,1.23523963
+686,Evening,Thu,Economy,5 to 10,1.234284586
+533,Evening,Mon,Business+,5 to 10,1.233199631
+749,Night,Mon,Business+,1 to 2,1.232531445
+752,Morning,Wed,Economy,3 to 5,1.231917588
+774,Night,Sat,Business Direct,3 to 5,1.228799113
+947,Morning,Fri,Concierge+,3 to 5,1.228742023
+634,Night,Mon,Concierge+,1 to 2,1.228697232
+763,Morning,Sat,Economy,10 to 20 ,1.228336793
+109,Morning,Sun,Business Direct,20+,1.228065003
+929,Evening,Thu,Business+,3 to 5,1.227691227
+815,Morning,Sun,Business Break Journey,3 to 5,1.223655305
+164,Morning,Tue,Business Break Journey,1 to 2,1.223590349
+982,Night,Tue,Economy,5 to 10,1.223238773
+2,Night,Mon,Business Direct,10 to 20 ,1.223096751
+359,Morning,Tue,Economy,1 to 2,1.221590546
+608,Morning,Sat,Business Direct,5 to 10,1.219647294
+165,Night,Thu,Business+,20+,1.218927691
+703,Evening,Wed,Business Break Journey,5 to 10,1.218619758
+282,Night,Sun,Business Break Journey,20+,1.218425295
+731,Night,Wed,Business+,1 to 2,1.216633686
+171,Morning,Wed,Economy,20+,1.214732901
+210,Night,Wed,Business+,10 to 20 ,1.214549377
+71,Morning,Fri,Business Break Journey,5 to 10,1.214125747
+781,Evening,Thu,Business+,20+,1.213300466
+458,Night,Sun,Business Direct,1 to 2,1.208149063
+25,Evening,Wed,Business+,10 to 20 ,1.20814633
+913,Night,Wed,Concierge+,1 to 2,1.207007728
+832,Night,Tue,Concierge+,1 to 2,1.206305236
+318,Morning,Sun,Concierge+,5 to 10,1.204417047
+606,Evening,Sun,Business Break Journey,1 to 2,1.201242606
+670,Evening,Thu,Business+,1 to 2,1.198419523
+202,Night,Sun,Economy,1 to 2,1.197703459
+185,Morning,Tue,Business Break Journey,3 to 5,1.195739679
+300,Night,Wed,Business+,10 to 20 ,1.191536079
+423,Morning,Fri,Business+,20+,1.189626674
+8,Evening,Fri,Business Direct,5 to 10,1.189182301
+374,Evening,Sat,Business Break Journey,5 to 10,1.185012459
+635,Morning,Sun,Business Direct,1 to 2,1.18487285
+203,Evening,Wed,Business+,20+,1.1845987
+144,Night,Thu,Business Direct,20+,1.183201473
+241,Evening,Sun,Economy,1 to 2,1.181525742
+700,Night,Tue,Business+,5 to 10,1.180794451
+850,Morning,Sat,Economy,10 to 20 ,1.179896661
+529,Night,Sun,Business Direct,20+,1.178784677
+515,Morning,Thu,Business Direct,20+,1.178194313
+746,Morning,Mon,Economy,3 to 5,1.177115357
+141,Morning,Fri,Business Break Journey,20+,1.17704941
+574,Morning,Mon,Economy,20+,1.175990594
+580,Evening,Fri,Economy,1 to 2,1.174379581
+381,Morning,Tue,Business+,3 to 5,1.172934786
+336,Night,Sat,Business Direct,20+,1.171247995
+135,Evening,Sun,Business Break Journey,3 to 5,1.170241342
+812,Evening,Fri,Business Break Journey,20+,1.169647925
+360,Night,Thu,Concierge+,3 to 5,1.168496221
+647,Night,Mon,Concierge+,10 to 20 ,1.162492635
+851,Night,Mon,Business+,1 to 2,1.162098561
+780,Morning,Thu,Business Direct,3 to 5,1.161358576
+87,Night,Fri,Business+,20+,1.161165249
+70,Morning,Sat,Economy,5 to 10,1.161068345
+745,Night,Sat,Economy,5 to 10,1.158311306
+77,Night,Tue,Concierge+,5 to 10,1.157735988
+186,Morning,Mon,Business+,5 to 10,1.155863815
+732,Morning,Wed,Economy,1 to 2,1.155767401
+943,Night,Fri,Concierge+,10 to 20 ,1.155741923
+234,Evening,Tue,Business Direct,5 to 10,1.155452498
+432,Morning,Sun,Business Direct,20+,1.1540999
+408,Evening,Tue,Business Direct,20+,1.153051138
+733,Evening,Thu,Concierge+,20+,1.149704509
+757,Evening,Mon,Business Break Journey,10 to 20 ,1.148221839
+134,Evening,Wed,Business+,1 to 2,1.147005767
+29,Evening,Sat,Business Direct,1 to 2,1.146293137
+176,Night,Thu,Business+,5 to 10,1.142845935
+965,Evening,Mon,Economy,20+,1.142733878
+960,Morning,Wed,Business+,20+,1.140206844
+655,Evening,Tue,Economy,5 to 10,1.138181781
+724,Night,Tue,Business Break Journey,5 to 10,1.135125583
+592,Evening,Thu,Economy,3 to 5,1.133763213
+707,Night,Sun,Business+,20+,1.133176006
+250,Night,Fri,Economy,20+,1.132720507
+349,Morning,Mon,Business Break Journey,10 to 20 ,1.131681962
+616,Morning,Mon,Business Direct,5 to 10,1.130267694
+476,Morning,Wed,Business Direct,1 to 2,1.129359187
+895,Morning,Wed,Concierge+,10 to 20 ,1.127878095
+604,Night,Thu,Concierge+,5 to 10,1.12730828
+671,Night,Wed,Business Break Journey,1 to 2,1.127105189
+539,Night,Mon,Business Break Journey,5 to 10,1.126254485
+719,Evening,Fri,Business+,10 to 20 ,1.126117429
+589,Night,Thu,Business+,5 to 10,1.125345559
+748,Morning,Sat,Business+,5 to 10,1.124519128
+595,Evening,Sat,Business Break Journey,1 to 2,1.123218143
+312,Evening,Thu,Business Direct,20+,1.122910851
+672,Morning,Sat,Business+,10 to 20 ,1.121067226
+754,Night,Sat,Business Direct,1 to 2,1.118101686
+449,Night,Thu,Concierge+,5 to 10,1.115798711
+62,Morning,Wed,Concierge+,20+,1.11574676
+726,Evening,Sun,Economy,10 to 20 ,1.112291567
+446,Evening,Sun,Business Break Journey,5 to 10,1.111432433
+14,Morning,Fri,Business Break Journey,3 to 5,1.109626312
+679,Night,Sat,Economy,1 to 2,1.108798258
+42,Morning,Wed,Concierge+,3 to 5,1.106978047
+422,Evening,Fri,Economy,5 to 10,1.10191396
+447,Morning,Mon,Concierge+,1 to 2,1.101881644
+350,Evening,Sun,Business Direct,5 to 10,1.101124973
+706,Evening,Sun,Business Direct,1 to 2,1.098327477
+681,Morning,Sat,Business Direct,10 to 20 ,1.096880365
+684,Evening,Fri,Business Direct,20+,1.096712399
+949,Evening,Tue,Business Direct,3 to 5,1.096358035
+596,Morning,Sun,Business Direct,20+,1.094851595
+497,Morning,Wed,Economy,5 to 10,1.09410027
+782,Night,Thu,Business+,3 to 5,1.091517173
+330,Night,Mon,Concierge+,1 to 2,1.09041573
+653,Morning,Wed,Business Break Journey,5 to 10,1.090181974
+157,Evening,Wed,Concierge+,20+,1.088148927
+261,Morning,Sun,Business Direct,10 to 20 ,1.085737192
+120,Night,Wed,Business Break Journey,1 to 2,1.084547349
+588,Morning,Sun,Business+,3 to 5,1.08401938
+311,Night,Sat,Concierge+,10 to 20 ,1.083823965
+517,Night,Fri,Business+,5 to 10,1.083001314
+259,Morning,Sat,Economy,3 to 5,1.081624103
+673,Evening,Mon,Business+,10 to 20 ,1.079201491
+511,Evening,Sun,Concierge+,5 to 10,1.077670298
+540,Morning,Sat,Concierge+,1 to 2,1.077054716
+137,Morning,Sat,Business Direct,1 to 2,1.076793395
+564,Morning,Sat,Business Break Journey,10 to 20 ,1.076594284
+750,Night,Thu,Concierge+,5 to 10,1.076254389
+24,Night,Sat,Business Direct,20+,1.075855878
+996,Morning,Sat,Economy,20+,1.073897687
+328,Morning,Sun,Economy,5 to 10,1.072137816
+523,Night,Sat,Business+,3 to 5,1.07156293
+570,Night,Thu,Business Direct,20+,1.071189432
+836,Morning,Fri,Concierge+,10 to 20 ,1.069913076
+605,Morning,Sat,Business Break Journey,5 to 10,1.067236251
+902,Evening,Thu,Economy,20+,1.066831328
+3,Morning,Tue,Business+,10 to 20 ,1.065828075
+924,Morning,Sat,Business+,3 to 5,1.065529532
+136,Night,Fri,Business Direct,5 to 10,1.064552254
+145,Evening,Sat,Concierge+,10 to 20 ,1.064016924
+428,Night,Mon,Business Break Journey,3 to 5,1.063277537
+993,Evening,Mon,Business Direct,10 to 20 ,1.063197911
+75,Evening,Mon,Business Direct,5 to 10,1.061463643
+837,Evening,Mon,Concierge+,3 to 5,1.060676591
+938,Morning,Mon,Business Break Journey,20+,1.060118164
+206,Evening,Thu,Business Direct,5 to 10,1.059810225
+448,Morning,Wed,Concierge+,3 to 5,1.059699217
+424,Morning,Wed,Business+,1 to 2,1.05880544
+452,Morning,Fri,Economy,10 to 20 ,1.057681756
+472,Evening,Wed,Concierge+,1 to 2,1.054566233
+989,Evening,Sat,Economy,3 to 5,1.053831339
+617,Night,Fri,Business Break Journey,20+,1.053274606
+795,Night,Sun,Concierge+,10 to 20 ,1.051713324
+477,Evening,Sun,Business+,20+,1.049730124
+387,Evening,Fri,Business+,5 to 10,1.047395869
+138,Morning,Tue,Business Break Journey,3 to 5,1.045536456
+992,Morning,Tue,Business Break Journey,10 to 20 ,1.044843504
+626,Night,Tue,Economy,20+,1.044777057
+937,Evening,Thu,Business+,20+,1.044175504
+127,Night,Tue,Concierge+,10 to 20 ,1.044136718
+524,Evening,Sun,Business Direct,5 to 10,1.039349238
+372,Morning,Mon,Business+,3 to 5,1.039089565
+139,Night,Sat,Economy,3 to 5,1.039004701
+652,Evening,Sun,Business Direct,10 to 20 ,1.037618326
+38,Evening,Sat,Economy,10 to 20 ,1.037472436
+853,Night,Tue,Business+,20+,1.037444211
+743,Night,Sun,Business Direct,1 to 2,1.036791133
+407,Morning,Wed,Business Direct,5 to 10,1.036198415
+797,Evening,Tue,Business+,1 to 2,1.035098466
+578,Night,Sat,Economy,1 to 2,1.034327163
+5,Evening,Sat,Business Direct,10 to 20 ,1.032941318
+698,Night,Thu,Economy,10 to 20 ,1.032865637
+708,Evening,Fri,Concierge+,10 to 20 ,1.03107057
+526,Evening,Sat,Economy,1 to 2,1.028386064
+693,Night,Sun,Business Direct,3 to 5,1.02759405
+143,Morning,Mon,Business+,1 to 2,1.026783981
+9,Night,Thu,Business Break Journey,1 to 2,1.026421052
+720,Night,Fri,Business Direct,10 to 20 ,1.026387345
+88,Night,Sat,Business+,5 to 10,1.02610765
+427,Morning,Sat,Business Direct,10 to 20 ,1.025588231
+680,Morning,Tue,Concierge+,20+,1.024779987
+178,Night,Mon,Business Break Journey,1 to 2,1.023872872
+385,Evening,Sat,Business Direct,5 to 10,1.023467385
+557,Night,Wed,Business Break Journey,10 to 20 ,1.022398164
+718,Morning,Mon,Business Break Journey,20+,1.022106082
+124,Night,Thu,Business Direct,5 to 10,1.021089883
+777,Morning,Sun,Economy,3 to 5,1.02095534
+235,Evening,Mon,Business+,20+,1.020444558
+275,Evening,Fri,Business Direct,20+,1.019692598
+334,Morning,Thu,Economy,1 to 2,1.019126316
+687,Evening,Sat,Concierge+,20+,1.018907312
+883,Night,Thu,Business+,10 to 20 ,1.01876909
+622,Morning,Mon,Concierge+,1 to 2,1.016549676
+766,Evening,Wed,Business Direct,3 to 5,1.013885655
+55,Night,Thu,Economy,20+,1.01276638
+182,Morning,Sat,Concierge+,20+,1.012117517
+264,Night,Fri,Business+,1 to 2,1.011553582
+499,Night,Sun,Economy,1 to 2,1.009033153
+453,Night,Sun,Economy,10 to 20 ,1.00791579
+710,Morning,Sun,Business Direct,5 to 10,1.006722139
+76,Morning,Tue,Economy,1 to 2,1.006091433
+184,Night,Mon,Business+,5 to 10,1.005676098
+173,Night,Thu,Economy,5 to 10,1.005611578
+601,Night,Sat,Business+,10 to 20 ,1.00378235
